@@ -1,1285 +1,635 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>167D18CF1F1D09D7699E0DA8</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods_MobileLeagueHacking.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>1B8F64B10B45D5846C463A34</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-MobileLeagueHacking.release.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-MobileLeagueHacking/Pods-MobileLeagueHacking.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4E3509BC4845C484CEB98685</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>&#128230; Check Pods Manifest.lock</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>diff "${PODS_ROOT}/../Podfile.lock" "${PODS_ROOT}/Manifest.lock" &gt; /dev/null
-if [[ $? != 0 ]] ; then
-    cat &lt;&lt; EOM
-error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.
-EOM
-    exit 1
-fi
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>5DEC7A8BB02178B1609EAA6A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-MobileLeagueHacking.debug.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-MobileLeagueHacking/Pods-MobileLeagueHacking.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>843410DE5CF95FCBC0EC96C5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>167D18CF1F1D09D7699E0DA8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8D2E84A2015AE9C801971B6E</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>5DEC7A8BB02178B1609EAA6A</string>
-				<string>1B8F64B10B45D5846C463A34</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CEA0E871B90D1F8FBA36F9DA</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>&#128230; Embed Pods Frameworks</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-MobileLeagueHacking/Pods-MobileLeagueHacking-frameworks.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>E12375751E3389D6002A00A0</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>name</key>
-			<string>HackathonViewController.swift</string>
-			<key>path</key>
-			<string>../HackathonViewController.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E12375761E3389D6002A00A0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E12375751E3389D6002A00A0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E18975AA1E333CC100CA4FC2</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E18975B51E333CC100CA4FC2</string>
-				<string>E18975CC1E333CC200CA4FC2</string>
-				<string>E18975D71E333CC200CA4FC2</string>
-				<string>E18975B41E333CC100CA4FC2</string>
-				<string>F5F9B4941E34208200E7487D</string>
-				<string>8D2E84A2015AE9C801971B6E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975AB1E333CC100CA4FC2</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastSwiftUpdateCheck</key>
-				<string>0810</string>
-				<key>LastUpgradeCheck</key>
-				<string>0810</string>
-				<key>ORGANIZATIONNAME</key>
-				<string>HaydenBlair</string>
-				<key>TargetAttributes</key>
-				<dict>
-					<key>E18975B21E333CC100CA4FC2</key>
-					<dict>
-						<key>CreatedOnToolsVersion</key>
-						<string>8.1</string>
-						<key>DevelopmentTeam</key>
-						<string>9A36UARD24</string>
-						<key>ProvisioningStyle</key>
-						<string>Automatic</string>
-					</dict>
-					<key>E18975C81E333CC200CA4FC2</key>
-					<dict>
-						<key>CreatedOnToolsVersion</key>
-						<string>8.1</string>
-						<key>ProvisioningStyle</key>
-						<string>Automatic</string>
-						<key>TestTargetID</key>
-						<string>E18975B21E333CC100CA4FC2</string>
-					</dict>
-					<key>E18975D31E333CC200CA4FC2</key>
-					<dict>
-						<key>CreatedOnToolsVersion</key>
-						<string>8.1</string>
-						<key>ProvisioningStyle</key>
-						<string>Automatic</string>
-						<key>TestTargetID</key>
-						<string>E18975B21E333CC100CA4FC2</string>
-					</dict>
-				</dict>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>E18975AE1E333CC100CA4FC2</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-				<string>Base</string>
-			</array>
-			<key>mainGroup</key>
-			<string>E18975AA1E333CC100CA4FC2</string>
-			<key>productRefGroup</key>
-			<string>E18975B41E333CC100CA4FC2</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>E18975B21E333CC100CA4FC2</string>
-				<string>E18975C81E333CC200CA4FC2</string>
-				<string>E18975D31E333CC200CA4FC2</string>
-			</array>
-		</dict>
-		<key>E18975AE1E333CC100CA4FC2</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>E18975DB1E333CC200CA4FC2</string>
-				<string>E18975DC1E333CC200CA4FC2</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>E18975AF1E333CC100CA4FC2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E18975BB1E333CC100CA4FC2</string>
-				<string>E18975B71E333CC100CA4FC2</string>
-				<string>F542B4681E33F308006D3278</string>
-				<string>E12375761E3389D6002A00A0</string>
-				<string>F542B4661E33EC62006D3278</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>E18975B01E333CC100CA4FC2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>843410DE5CF95FCBC0EC96C5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>E18975B11E333CC100CA4FC2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E18975C31E333CC200CA4FC2</string>
-				<string>E19B02B81E3353F50067960A</string>
-				<string>E18975C01E333CC200CA4FC2</string>
-				<string>E18975BE1E333CC100CA4FC2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>E18975B21E333CC100CA4FC2</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>E18975DD1E333CC200CA4FC2</string>
-			<key>buildPhases</key>
-			<array>
-				<string>4E3509BC4845C484CEB98685</string>
-				<string>E18975AF1E333CC100CA4FC2</string>
-				<string>E18975B01E333CC100CA4FC2</string>
-				<string>E18975B11E333CC100CA4FC2</string>
-				<string>CEA0E871B90D1F8FBA36F9DA</string>
-				<string>EFC18A3B72FF25093602143C</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>MobileLeagueHacking</string>
-			<key>productName</key>
-			<string>MobileLeagueHacking</string>
-			<key>productReference</key>
-			<string>E18975B31E333CC100CA4FC2</string>
-			<key>productType</key>
-			<string>com.apple.product-type.application</string>
-		</dict>
-		<key>E18975B31E333CC100CA4FC2</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.application</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>MobileLeagueHacking.app</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>E18975B41E333CC100CA4FC2</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E18975B31E333CC100CA4FC2</string>
-				<string>E18975C91E333CC200CA4FC2</string>
-				<string>E18975D41E333CC200CA4FC2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975B51E333CC100CA4FC2</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E12375751E3389D6002A00A0</string>
-				<string>E19B02B71E3353F50067960A</string>
-				<string>E18975B61E333CC100CA4FC2</string>
-				<string>E18975BA1E333CC100CA4FC2</string>
-				<string>E18975BC1E333CC100CA4FC2</string>
-				<string>E18975BF1E333CC200CA4FC2</string>
-				<string>E18975C11E333CC200CA4FC2</string>
-				<string>E18975C41E333CC200CA4FC2</string>
-				<string>F542B4651E33EC62006D3278</string>
-				<string>F542B4671E33F308006D3278</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>MobileLeagueHacking</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975B61E333CC100CA4FC2</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>AppDelegate.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975B71E333CC100CA4FC2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E18975B61E333CC100CA4FC2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E18975BA1E333CC100CA4FC2</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>SecondViewController.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975BB1E333CC100CA4FC2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E18975BA1E333CC100CA4FC2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E18975BC1E333CC100CA4FC2</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E18975BD1E333CC100CA4FC2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>Main.storyboard</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975BD1E333CC100CA4FC2</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>file.storyboard</string>
-			<key>name</key>
-			<string>Base</string>
-			<key>path</key>
-			<string>Base.lproj/Main.storyboard</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975BE1E333CC100CA4FC2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E18975BC1E333CC100CA4FC2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E18975BF1E333CC200CA4FC2</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>folder.assetcatalog</string>
-			<key>path</key>
-			<string>Assets.xcassets</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975C01E333CC200CA4FC2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E18975BF1E333CC200CA4FC2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E18975C11E333CC200CA4FC2</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E18975C21E333CC200CA4FC2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>LaunchScreen.storyboard</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975C21E333CC200CA4FC2</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>file.storyboard</string>
-			<key>name</key>
-			<string>Base</string>
-			<key>path</key>
-			<string>Base.lproj/LaunchScreen.storyboard</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975C31E333CC200CA4FC2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E18975C11E333CC200CA4FC2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E18975C41E333CC200CA4FC2</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975C51E333CC200CA4FC2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E18975CE1E333CC200CA4FC2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>E18975C61E333CC200CA4FC2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>E18975C71E333CC200CA4FC2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>E18975C81E333CC200CA4FC2</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>E18975E01E333CC200CA4FC2</string>
-			<key>buildPhases</key>
-			<array>
-				<string>E18975C51E333CC200CA4FC2</string>
-				<string>E18975C61E333CC200CA4FC2</string>
-				<string>E18975C71E333CC200CA4FC2</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>E18975CB1E333CC200CA4FC2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>MobileLeagueHackingTests</string>
-			<key>productName</key>
-			<string>MobileLeagueHackingTests</string>
-			<key>productReference</key>
-			<string>E18975C91E333CC200CA4FC2</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle.unit-test</string>
-		</dict>
-		<key>E18975C91E333CC200CA4FC2</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>MobileLeagueHackingTests.xctest</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>E18975CA1E333CC200CA4FC2</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>E18975AB1E333CC100CA4FC2</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>E18975B21E333CC100CA4FC2</string>
-			<key>remoteInfo</key>
-			<string>MobileLeagueHacking</string>
-		</dict>
-		<key>E18975CB1E333CC200CA4FC2</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>E18975B21E333CC100CA4FC2</string>
-			<key>targetProxy</key>
-			<string>E18975CA1E333CC200CA4FC2</string>
-		</dict>
-		<key>E18975CC1E333CC200CA4FC2</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E18975CD1E333CC200CA4FC2</string>
-				<string>E18975CF1E333CC200CA4FC2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>MobileLeagueHackingTests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975CD1E333CC200CA4FC2</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>MobileLeagueHackingTests.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975CE1E333CC200CA4FC2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E18975CD1E333CC200CA4FC2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E18975CF1E333CC200CA4FC2</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975D01E333CC200CA4FC2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E18975D91E333CC200CA4FC2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>E18975D11E333CC200CA4FC2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>E18975D21E333CC200CA4FC2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>E18975D31E333CC200CA4FC2</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>E18975E31E333CC200CA4FC2</string>
-			<key>buildPhases</key>
-			<array>
-				<string>E18975D01E333CC200CA4FC2</string>
-				<string>E18975D11E333CC200CA4FC2</string>
-				<string>E18975D21E333CC200CA4FC2</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>E18975D61E333CC200CA4FC2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>MobileLeagueHackingUITests</string>
-			<key>productName</key>
-			<string>MobileLeagueHackingUITests</string>
-			<key>productReference</key>
-			<string>E18975D41E333CC200CA4FC2</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle.ui-testing</string>
-		</dict>
-		<key>E18975D41E333CC200CA4FC2</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>MobileLeagueHackingUITests.xctest</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>E18975D51E333CC200CA4FC2</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>E18975AB1E333CC100CA4FC2</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>E18975B21E333CC100CA4FC2</string>
-			<key>remoteInfo</key>
-			<string>MobileLeagueHacking</string>
-		</dict>
-		<key>E18975D61E333CC200CA4FC2</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>E18975B21E333CC100CA4FC2</string>
-			<key>targetProxy</key>
-			<string>E18975D51E333CC200CA4FC2</string>
-		</dict>
-		<key>E18975D71E333CC200CA4FC2</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E18975D81E333CC200CA4FC2</string>
-				<string>E18975DA1E333CC200CA4FC2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>MobileLeagueHackingUITests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975D81E333CC200CA4FC2</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>MobileLeagueHackingUITests.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975D91E333CC200CA4FC2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E18975D81E333CC200CA4FC2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E18975DA1E333CC200CA4FC2</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E18975DB1E333CC200CA4FC2</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_ANALYZER_NONNULL</key>
-				<string>YES</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_DOCUMENTATION_COMMENTS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INFINITE_RECURSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_SUSPICIOUS_MOVES</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>ENABLE_TESTABILITY</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES_ERROR</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES_AGGRESSIVE</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>10.1</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SWIFT_ACTIVE_COMPILATION_CONDITIONS</key>
-				<string>DEBUG</string>
-				<key>SWIFT_OPTIMIZATION_LEVEL</key>
-				<string>-Onone</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>E18975DC1E333CC200CA4FC2</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_ANALYZER_NONNULL</key>
-				<string>YES</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_DOCUMENTATION_COMMENTS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INFINITE_RECURSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_SUSPICIOUS_MOVES</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES_ERROR</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES_AGGRESSIVE</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>10.1</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SWIFT_OPTIMIZATION_LEVEL</key>
-				<string>-Owholemodule</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>E18975DD1E333CC200CA4FC2</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>E18975DE1E333CC200CA4FC2</string>
-				<string>E18975DF1E333CC200CA4FC2</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>E18975DE1E333CC200CA4FC2</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>5DEC7A8BB02178B1609EAA6A</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
-				<string>AppIcon</string>
-				<key>DEVELOPMENT_TEAM</key>
-				<string>9A36UARD24</string>
-				<key>FRAMEWORK_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>$(PROJECT_DIR)/build/Debug-iphoneos/SwiftyJSON</string>
-				</array>
-				<key>INFOPLIST_FILE</key>
-				<string>MobileLeagueHacking/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>hype.MobileLeagueHacking</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SWIFT_VERSION</key>
-				<string>3.0</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>E18975DF1E333CC200CA4FC2</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>1B8F64B10B45D5846C463A34</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
-				<string>AppIcon</string>
-				<key>DEVELOPMENT_TEAM</key>
-				<string>9A36UARD24</string>
-				<key>FRAMEWORK_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>$(PROJECT_DIR)/build/Debug-iphoneos/SwiftyJSON</string>
-				</array>
-				<key>INFOPLIST_FILE</key>
-				<string>MobileLeagueHacking/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>hype.MobileLeagueHacking</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SWIFT_VERSION</key>
-				<string>3.0</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>E18975E01E333CC200CA4FC2</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>E18975E11E333CC200CA4FC2</string>
-				<string>E18975E21E333CC200CA4FC2</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>E18975E11E333CC200CA4FC2</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES</key>
-				<string>YES</string>
-				<key>BUNDLE_LOADER</key>
-				<string>$(TEST_HOST)</string>
-				<key>INFOPLIST_FILE</key>
-				<string>MobileLeagueHackingTests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>hype.MobileLeagueHackingTests</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SWIFT_VERSION</key>
-				<string>3.0</string>
-				<key>TEST_HOST</key>
-				<string>$(BUILT_PRODUCTS_DIR)/MobileLeagueHacking.app/MobileLeagueHacking</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>E18975E21E333CC200CA4FC2</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES</key>
-				<string>YES</string>
-				<key>BUNDLE_LOADER</key>
-				<string>$(TEST_HOST)</string>
-				<key>INFOPLIST_FILE</key>
-				<string>MobileLeagueHackingTests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>hype.MobileLeagueHackingTests</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SWIFT_VERSION</key>
-				<string>3.0</string>
-				<key>TEST_HOST</key>
-				<string>$(BUILT_PRODUCTS_DIR)/MobileLeagueHacking.app/MobileLeagueHacking</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>E18975E31E333CC200CA4FC2</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>E18975E41E333CC200CA4FC2</string>
-				<string>E18975E51E333CC200CA4FC2</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>E18975E41E333CC200CA4FC2</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>MobileLeagueHackingUITests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>hype.MobileLeagueHackingUITests</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SWIFT_VERSION</key>
-				<string>3.0</string>
-				<key>TEST_TARGET_NAME</key>
-				<string>MobileLeagueHacking</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>E18975E51E333CC200CA4FC2</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>MobileLeagueHackingUITests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>hype.MobileLeagueHackingUITests</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SWIFT_VERSION</key>
-				<string>3.0</string>
-				<key>TEST_TARGET_NAME</key>
-				<string>MobileLeagueHacking</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>E19B02B71E3353F50067960A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.json</string>
-			<key>path</key>
-			<string>mlh.json</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E19B02B81E3353F50067960A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E19B02B71E3353F50067960A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>EFC18A3B72FF25093602143C</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>&#128230; Copy Pods Resources</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-MobileLeagueHacking/Pods-MobileLeagueHacking-resources.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>F542B4651E33EC62006D3278</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>HackathonCell.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F542B4661E33EC62006D3278</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F542B4651E33EC62006D3278</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F542B4671E33F308006D3278</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>Hackathon.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F542B4681E33F308006D3278</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F542B4671E33F308006D3278</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F5F9B4941E34208200E7487D</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>F5F9B4951E34208200E7487D</string>
-				<string>167D18CF1F1D09D7699E0DA8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F5F9B4951E34208200E7487D</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>SwiftyJSON.framework</string>
-			<key>path</key>
-			<string>Pods/../build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>E18975AB1E333CC100CA4FC2</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		843410DE5CF95FCBC0EC96C5 /* Pods_MobileLeagueHacking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 167D18CF1F1D09D7699E0DA8 /* Pods_MobileLeagueHacking.framework */; };
+		E11199421E34537600E7E0EC /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11199411E34537600E7E0EC /* MapViewController.swift */; };
+		E12375761E3389D6002A00A0 /* HackathonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E12375751E3389D6002A00A0 /* HackathonViewController.swift */; };
+		E18975B71E333CC100CA4FC2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18975B61E333CC100CA4FC2 /* AppDelegate.swift */; };
+		E18975BE1E333CC100CA4FC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E18975BC1E333CC100CA4FC2 /* Main.storyboard */; };
+		E18975C01E333CC200CA4FC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E18975BF1E333CC200CA4FC2 /* Assets.xcassets */; };
+		E18975C31E333CC200CA4FC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E18975C11E333CC200CA4FC2 /* LaunchScreen.storyboard */; };
+		E18975CE1E333CC200CA4FC2 /* MobileLeagueHackingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18975CD1E333CC200CA4FC2 /* MobileLeagueHackingTests.swift */; };
+		E18975D91E333CC200CA4FC2 /* MobileLeagueHackingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18975D81E333CC200CA4FC2 /* MobileLeagueHackingUITests.swift */; };
+		E19B02B81E3353F50067960A /* mlh.json in Resources */ = {isa = PBXBuildFile; fileRef = E19B02B71E3353F50067960A /* mlh.json */; };
+		F542B4661E33EC62006D3278 /* HackathonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F542B4651E33EC62006D3278 /* HackathonCell.swift */; };
+		F542B4681E33F308006D3278 /* Hackathon.swift in Sources */ = {isa = PBXBuildFile; fileRef = F542B4671E33F308006D3278 /* Hackathon.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E18975CA1E333CC200CA4FC2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E18975AB1E333CC100CA4FC2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E18975B21E333CC100CA4FC2;
+			remoteInfo = MobileLeagueHacking;
+		};
+		E18975D51E333CC200CA4FC2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E18975AB1E333CC100CA4FC2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E18975B21E333CC100CA4FC2;
+			remoteInfo = MobileLeagueHacking;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		167D18CF1F1D09D7699E0DA8 /* Pods_MobileLeagueHacking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MobileLeagueHacking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1B8F64B10B45D5846C463A34 /* Pods-MobileLeagueHacking.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileLeagueHacking.release.xcconfig"; path = "Pods/Target Support Files/Pods-MobileLeagueHacking/Pods-MobileLeagueHacking.release.xcconfig"; sourceTree = "<group>"; };
+		5DEC7A8BB02178B1609EAA6A /* Pods-MobileLeagueHacking.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileLeagueHacking.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MobileLeagueHacking/Pods-MobileLeagueHacking.debug.xcconfig"; sourceTree = "<group>"; };
+		E11199411E34537600E7E0EC /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		E12375751E3389D6002A00A0 /* HackathonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HackathonViewController.swift; path = ../HackathonViewController.swift; sourceTree = "<group>"; };
+		E18975B31E333CC100CA4FC2 /* MobileLeagueHacking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MobileLeagueHacking.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E18975B61E333CC100CA4FC2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E18975BD1E333CC100CA4FC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E18975BF1E333CC200CA4FC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E18975C21E333CC200CA4FC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E18975C41E333CC200CA4FC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E18975C91E333CC200CA4FC2 /* MobileLeagueHackingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MobileLeagueHackingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E18975CD1E333CC200CA4FC2 /* MobileLeagueHackingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobileLeagueHackingTests.swift; sourceTree = "<group>"; };
+		E18975CF1E333CC200CA4FC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E18975D41E333CC200CA4FC2 /* MobileLeagueHackingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MobileLeagueHackingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E18975D81E333CC200CA4FC2 /* MobileLeagueHackingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobileLeagueHackingUITests.swift; sourceTree = "<group>"; };
+		E18975DA1E333CC200CA4FC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E19B02B71E3353F50067960A /* mlh.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = mlh.json; sourceTree = "<group>"; };
+		F542B4651E33EC62006D3278 /* HackathonCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HackathonCell.swift; sourceTree = "<group>"; };
+		F542B4671E33F308006D3278 /* Hackathon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hackathon.swift; sourceTree = "<group>"; };
+		F5F9B4951E34208200E7487D /* SwiftyJSON.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftyJSON.framework; path = "Pods/../build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E18975B01E333CC100CA4FC2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				843410DE5CF95FCBC0EC96C5 /* Pods_MobileLeagueHacking.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E18975C61E333CC200CA4FC2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E18975D11E333CC200CA4FC2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8D2E84A2015AE9C801971B6E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				5DEC7A8BB02178B1609EAA6A /* Pods-MobileLeagueHacking.debug.xcconfig */,
+				1B8F64B10B45D5846C463A34 /* Pods-MobileLeagueHacking.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		E18975AA1E333CC100CA4FC2 = {
+			isa = PBXGroup;
+			children = (
+				E18975B51E333CC100CA4FC2 /* MobileLeagueHacking */,
+				E18975CC1E333CC200CA4FC2 /* MobileLeagueHackingTests */,
+				E18975D71E333CC200CA4FC2 /* MobileLeagueHackingUITests */,
+				E18975B41E333CC100CA4FC2 /* Products */,
+				F5F9B4941E34208200E7487D /* Frameworks */,
+				8D2E84A2015AE9C801971B6E /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		E18975B41E333CC100CA4FC2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E18975B31E333CC100CA4FC2 /* MobileLeagueHacking.app */,
+				E18975C91E333CC200CA4FC2 /* MobileLeagueHackingTests.xctest */,
+				E18975D41E333CC200CA4FC2 /* MobileLeagueHackingUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E18975B51E333CC100CA4FC2 /* MobileLeagueHacking */ = {
+			isa = PBXGroup;
+			children = (
+				E12375751E3389D6002A00A0 /* HackathonViewController.swift */,
+				E19B02B71E3353F50067960A /* mlh.json */,
+				E18975B61E333CC100CA4FC2 /* AppDelegate.swift */,
+				E18975BC1E333CC100CA4FC2 /* Main.storyboard */,
+				E18975BF1E333CC200CA4FC2 /* Assets.xcassets */,
+				E18975C11E333CC200CA4FC2 /* LaunchScreen.storyboard */,
+				E18975C41E333CC200CA4FC2 /* Info.plist */,
+				F542B4651E33EC62006D3278 /* HackathonCell.swift */,
+				F542B4671E33F308006D3278 /* Hackathon.swift */,
+				E11199411E34537600E7E0EC /* MapViewController.swift */,
+			);
+			path = MobileLeagueHacking;
+			sourceTree = "<group>";
+		};
+		E18975CC1E333CC200CA4FC2 /* MobileLeagueHackingTests */ = {
+			isa = PBXGroup;
+			children = (
+				E18975CD1E333CC200CA4FC2 /* MobileLeagueHackingTests.swift */,
+				E18975CF1E333CC200CA4FC2 /* Info.plist */,
+			);
+			path = MobileLeagueHackingTests;
+			sourceTree = "<group>";
+		};
+		E18975D71E333CC200CA4FC2 /* MobileLeagueHackingUITests */ = {
+			isa = PBXGroup;
+			children = (
+				E18975D81E333CC200CA4FC2 /* MobileLeagueHackingUITests.swift */,
+				E18975DA1E333CC200CA4FC2 /* Info.plist */,
+			);
+			path = MobileLeagueHackingUITests;
+			sourceTree = "<group>";
+		};
+		F5F9B4941E34208200E7487D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F5F9B4951E34208200E7487D /* SwiftyJSON.framework */,
+				167D18CF1F1D09D7699E0DA8 /* Pods_MobileLeagueHacking.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E18975B21E333CC100CA4FC2 /* MobileLeagueHacking */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E18975DD1E333CC200CA4FC2 /* Build configuration list for PBXNativeTarget "MobileLeagueHacking" */;
+			buildPhases = (
+				4E3509BC4845C484CEB98685 /* [CP] Check Pods Manifest.lock */,
+				E18975AF1E333CC100CA4FC2 /* Sources */,
+				E18975B01E333CC100CA4FC2 /* Frameworks */,
+				E18975B11E333CC100CA4FC2 /* Resources */,
+				CEA0E871B90D1F8FBA36F9DA /* [CP] Embed Pods Frameworks */,
+				EFC18A3B72FF25093602143C /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MobileLeagueHacking;
+			productName = MobileLeagueHacking;
+			productReference = E18975B31E333CC100CA4FC2 /* MobileLeagueHacking.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E18975C81E333CC200CA4FC2 /* MobileLeagueHackingTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E18975E01E333CC200CA4FC2 /* Build configuration list for PBXNativeTarget "MobileLeagueHackingTests" */;
+			buildPhases = (
+				E18975C51E333CC200CA4FC2 /* Sources */,
+				E18975C61E333CC200CA4FC2 /* Frameworks */,
+				E18975C71E333CC200CA4FC2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E18975CB1E333CC200CA4FC2 /* PBXTargetDependency */,
+			);
+			name = MobileLeagueHackingTests;
+			productName = MobileLeagueHackingTests;
+			productReference = E18975C91E333CC200CA4FC2 /* MobileLeagueHackingTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		E18975D31E333CC200CA4FC2 /* MobileLeagueHackingUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E18975E31E333CC200CA4FC2 /* Build configuration list for PBXNativeTarget "MobileLeagueHackingUITests" */;
+			buildPhases = (
+				E18975D01E333CC200CA4FC2 /* Sources */,
+				E18975D11E333CC200CA4FC2 /* Frameworks */,
+				E18975D21E333CC200CA4FC2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E18975D61E333CC200CA4FC2 /* PBXTargetDependency */,
+			);
+			name = MobileLeagueHackingUITests;
+			productName = MobileLeagueHackingUITests;
+			productReference = E18975D41E333CC200CA4FC2 /* MobileLeagueHackingUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E18975AB1E333CC100CA4FC2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0810;
+				LastUpgradeCheck = 0810;
+				ORGANIZATIONNAME = HaydenBlair;
+				TargetAttributes = {
+					E18975B21E333CC100CA4FC2 = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 9A36UARD24;
+						ProvisioningStyle = Automatic;
+					};
+					E18975C81E333CC200CA4FC2 = {
+						CreatedOnToolsVersion = 8.1;
+						ProvisioningStyle = Automatic;
+						TestTargetID = E18975B21E333CC100CA4FC2;
+					};
+					E18975D31E333CC200CA4FC2 = {
+						CreatedOnToolsVersion = 8.1;
+						ProvisioningStyle = Automatic;
+						TestTargetID = E18975B21E333CC100CA4FC2;
+					};
+				};
+			};
+			buildConfigurationList = E18975AE1E333CC100CA4FC2 /* Build configuration list for PBXProject "MobileLeagueHacking" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E18975AA1E333CC100CA4FC2;
+			productRefGroup = E18975B41E333CC100CA4FC2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E18975B21E333CC100CA4FC2 /* MobileLeagueHacking */,
+				E18975C81E333CC200CA4FC2 /* MobileLeagueHackingTests */,
+				E18975D31E333CC200CA4FC2 /* MobileLeagueHackingUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E18975B11E333CC100CA4FC2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E18975C31E333CC200CA4FC2 /* LaunchScreen.storyboard in Resources */,
+				E19B02B81E3353F50067960A /* mlh.json in Resources */,
+				E18975C01E333CC200CA4FC2 /* Assets.xcassets in Resources */,
+				E18975BE1E333CC100CA4FC2 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E18975C71E333CC200CA4FC2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E18975D21E333CC200CA4FC2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		4E3509BC4845C484CEB98685 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		CEA0E871B90D1F8FBA36F9DA /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MobileLeagueHacking/Pods-MobileLeagueHacking-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EFC18A3B72FF25093602143C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MobileLeagueHacking/Pods-MobileLeagueHacking-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E18975AF1E333CC100CA4FC2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E11199421E34537600E7E0EC /* MapViewController.swift in Sources */,
+				E18975B71E333CC100CA4FC2 /* AppDelegate.swift in Sources */,
+				F542B4681E33F308006D3278 /* Hackathon.swift in Sources */,
+				E12375761E3389D6002A00A0 /* HackathonViewController.swift in Sources */,
+				F542B4661E33EC62006D3278 /* HackathonCell.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E18975C51E333CC200CA4FC2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E18975CE1E333CC200CA4FC2 /* MobileLeagueHackingTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E18975D01E333CC200CA4FC2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E18975D91E333CC200CA4FC2 /* MobileLeagueHackingUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E18975CB1E333CC200CA4FC2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E18975B21E333CC100CA4FC2 /* MobileLeagueHacking */;
+			targetProxy = E18975CA1E333CC200CA4FC2 /* PBXContainerItemProxy */;
+		};
+		E18975D61E333CC200CA4FC2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E18975B21E333CC100CA4FC2 /* MobileLeagueHacking */;
+			targetProxy = E18975D51E333CC200CA4FC2 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		E18975BC1E333CC100CA4FC2 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E18975BD1E333CC100CA4FC2 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		E18975C11E333CC200CA4FC2 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E18975C21E333CC200CA4FC2 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		E18975DB1E333CC200CA4FC2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E18975DC1E333CC200CA4FC2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E18975DE1E333CC200CA4FC2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5DEC7A8BB02178B1609EAA6A /* Pods-MobileLeagueHacking.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9A36UARD24;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/build/Debug-iphoneos/SwiftyJSON",
+				);
+				INFOPLIST_FILE = MobileLeagueHacking/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hype.MobileLeagueHacking;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		E18975DF1E333CC200CA4FC2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1B8F64B10B45D5846C463A34 /* Pods-MobileLeagueHacking.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9A36UARD24;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/build/Debug-iphoneos/SwiftyJSON",
+				);
+				INFOPLIST_FILE = MobileLeagueHacking/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hype.MobileLeagueHacking;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		E18975E11E333CC200CA4FC2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = MobileLeagueHackingTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hype.MobileLeagueHackingTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MobileLeagueHacking.app/MobileLeagueHacking";
+			};
+			name = Debug;
+		};
+		E18975E21E333CC200CA4FC2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = MobileLeagueHackingTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hype.MobileLeagueHackingTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MobileLeagueHacking.app/MobileLeagueHacking";
+			};
+			name = Release;
+		};
+		E18975E41E333CC200CA4FC2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = MobileLeagueHackingUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hype.MobileLeagueHackingUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = MobileLeagueHacking;
+			};
+			name = Debug;
+		};
+		E18975E51E333CC200CA4FC2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = MobileLeagueHackingUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hype.MobileLeagueHackingUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = MobileLeagueHacking;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E18975AE1E333CC100CA4FC2 /* Build configuration list for PBXProject "MobileLeagueHacking" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E18975DB1E333CC200CA4FC2 /* Debug */,
+				E18975DC1E333CC200CA4FC2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E18975DD1E333CC200CA4FC2 /* Build configuration list for PBXNativeTarget "MobileLeagueHacking" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E18975DE1E333CC200CA4FC2 /* Debug */,
+				E18975DF1E333CC200CA4FC2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E18975E01E333CC200CA4FC2 /* Build configuration list for PBXNativeTarget "MobileLeagueHackingTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E18975E11E333CC200CA4FC2 /* Debug */,
+				E18975E21E333CC200CA4FC2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E18975E31E333CC200CA4FC2 /* Build configuration list for PBXNativeTarget "MobileLeagueHackingUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E18975E41E333CC200CA4FC2 /* Debug */,
+				E18975E51E333CC200CA4FC2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E18975AB1E333CC100CA4FC2 /* Project object */;
+}
