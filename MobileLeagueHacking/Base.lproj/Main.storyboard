@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11542" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="cch-7u-tZg">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11542" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="2r2-u2-4GF">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
@@ -185,26 +185,35 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="d5O-9I-iEm" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2444" y="-9.4452773613193415"/>
+            <point key="canvasLocation" x="2566" y="46"/>
         </scene>
-        <!--Prizes-->
-        <scene sceneID="17K-7G-mRf">
+        <!--Table View Controller-->
+        <scene sceneID="NEw-jd-hv4">
             <objects>
-                <viewController id="npp-jx-Liu" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="hMq-xa-hwf"/>
-                        <viewControllerLayoutGuide type="bottom" id="JMQ-uj-jQb"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="Aci-Ts-2VN">
+                <tableViewController id="eC2-4f-Pey" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="cab-fj-cfX">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </view>
-                    <tabBarItem key="tabBarItem" title="Prizes" id="EF0-6J-4Yj"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="j8Y-HJ-fQO" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="ODN-vj-Vt5">
+                                <rect key="frame" x="0.0" y="28" width="375" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="ODN-vj-Vt5" id="Hxi-kT-58n">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="43"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="eC2-4f-Pey" id="qew-AL-dGg"/>
+                            <outlet property="delegate" destination="eC2-4f-Pey" id="L2z-Se-DqS"/>
+                        </connections>
+                    </tableView>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="mKP-Lt-sJU" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3409" y="119"/>
+            <point key="canvasLocation" x="3430" y="44"/>
         </scene>
         <!--Maps-->
         <scene sceneID="sko-1u-YsX">

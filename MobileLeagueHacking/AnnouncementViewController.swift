@@ -15,8 +15,7 @@ class AnnouncementViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
-        
+      
         let url = Bundle.main.url(forResource: "annoucements", withExtension: "json")
         let data = NSData(contentsOf: url!)
         let jdata = JSON(data!)
