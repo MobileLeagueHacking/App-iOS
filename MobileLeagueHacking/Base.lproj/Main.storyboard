@@ -24,7 +24,7 @@
                                 <rect key="frame" x="0.0" y="28" width="375" height="402"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="pgz-eo-ceX" id="Glr-Xc-65j">
-                                    <rect key="frame" x="0.0" y="0.0" width="375" height="401"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="401.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fx0-X9-6AB">
@@ -141,7 +141,7 @@
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                     </tabBar>
                     <connections>
-                        <segue destination="jfh-L2-Q99" kind="relationship" relationship="viewControllers" id="nUO-Yc-xOJ"/>
+                        <segue destination="48L-6K-F1a" kind="relationship" relationship="viewControllers" id="zZ7-UX-h78"/>
                         <segue destination="azA-oQ-84Y" kind="relationship" relationship="viewControllers" id="WRC-fX-MCF"/>
                         <segue destination="fmk-0G-DXm" kind="relationship" relationship="viewControllers" id="Lge-6r-SCM"/>
                         <segue destination="LRU-1J-yjB" kind="relationship" relationship="viewControllers" id="RlD-yE-OlA"/>
@@ -151,11 +151,11 @@
             </objects>
             <point key="canvasLocation" x="847" y="-242"/>
         </scene>
-        <!--Item-->
+        <!--Announcements-->
         <scene sceneID="If6-7P-8vC">
             <objects>
                 <navigationController id="azA-oQ-84Y" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="Gbz-bi-rmB"/>
+                    <tabBarItem key="tabBarItem" title="Announcements" image="Megaphone-22" selectedImage="Megaphone Filled-22" id="Gbz-bi-rmB"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="etm-KB-WqM">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -166,7 +166,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Rta-eD-WVi" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1748" y="45"/>
+            <point key="canvasLocation" x="846" y="599"/>
         </scene>
         <!--Annoucements-->
         <scene sceneID="3AG-GR-Ro3">
@@ -181,7 +181,7 @@
                                 <rect key="frame" x="0.0" y="28" width="375" height="76"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="ep9-nH-IlL" id="scn-xR-4xz">
-                                    <rect key="frame" x="0.0" y="0.0" width="375" height="75"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="75.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lbX-KI-RQN">
@@ -216,12 +216,12 @@
                             <outlet property="delegate" destination="cch-7u-tZg" id="Etd-01-fzs"/>
                         </connections>
                     </tableView>
-                    <tabBarItem key="tabBarItem" title="Announcements" id="XrA-fd-ixK"/>
+                    <tabBarItem key="tabBarItem" title="Announcements" image="Megaphone-22" selectedImage="Megaphone Filled-22" id="XrA-fd-ixK"/>
                     <navigationItem key="navigationItem" title="Annoucements" id="6CM-6f-HRS"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="d5O-9I-iEm" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2617" y="45"/>
+            <point key="canvasLocation" x="1822" y="610"/>
         </scene>
         <!--Prizes-->
         <scene sceneID="NEw-jd-hv4">
@@ -236,7 +236,7 @@
                                 <rect key="frame" x="0.0" y="28" width="375" height="72"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="ODN-vj-Vt5" id="Hxi-kT-58n">
-                                    <rect key="frame" x="0.0" y="0.0" width="375" height="71"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="71.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <stackView opaque="NO" contentMode="scaleToFill" fixedFrame="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="ezR-gE-giS">
@@ -281,18 +281,18 @@
                             <outlet property="delegate" destination="eC2-4f-Pey" id="L2z-Se-DqS"/>
                         </connections>
                     </tableView>
-                    <tabBarItem key="tabBarItem" title="Prizes" id="DVn-Y5-uT8"/>
+                    <tabBarItem key="tabBarItem" title="Prizes" image="Gift-22" selectedImage="Gift Filled-22" id="DVn-Y5-uT8"/>
                     <navigationItem key="navigationItem" title="Prizes" id="xTU-5T-8q7"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mKP-Lt-sJU" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4449" y="45"/>
+            <point key="canvasLocation" x="3412" y="7"/>
         </scene>
-        <!--Item-->
+        <!--Prizes-->
         <scene sceneID="FPo-j0-hIb">
             <objects>
                 <navigationController id="LRU-1J-yjB" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="pRp-dZ-YNo"/>
+                    <tabBarItem key="tabBarItem" title="Prizes" image="Gift-22" selectedImage="Gift Filled-22" id="pRp-dZ-YNo"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="JU8-2C-53e">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -303,24 +303,24 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fge-br-jpi" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3537" y="45"/>
+            <point key="canvasLocation" x="2526" y="7"/>
         </scene>
-        <!--Item-->
-        <scene sceneID="w6f-3d-L0S">
+        <!--Maps-->
+        <scene sceneID="2fx-7r-Dmf">
             <objects>
-                <navigationController id="jfh-L2-Q99" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="wl2-s4-ZUq"/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="8rR-m3-KGs">
+                <navigationController id="48L-6K-F1a" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Maps" image="Map-22" selectedImage="Map Filled-22" id="oLp-Mm-EQB"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="xBV-h0-PbG">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <connections>
-                        <segue destination="OGN-Er-YdJ" kind="relationship" relationship="rootViewController" id="Fph-O2-BfS"/>
+                        <segue destination="OGN-Er-YdJ" kind="relationship" relationship="rootViewController" id="Xk3-6D-3cN"/>
                     </connections>
                 </navigationController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="ZDj-bQ-3jh" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="nGo-mB-n5h" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1748" y="-689"/>
+            <point key="canvasLocation" x="1790" y="-1034"/>
         </scene>
         <!--Maps-->
         <scene sceneID="sko-1u-YsX">
@@ -348,7 +348,7 @@
                             <constraint firstItem="Z9z-qY-odR" firstAttribute="top" secondItem="YVT-jD-Nte" secondAttribute="top" id="pUU-HO-djb"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Maps" id="6kW-SU-TfA"/>
+                    <tabBarItem key="tabBarItem" title="Maps" image="Map-22" selectedImage="Map Filled-22" id="6kW-SU-TfA"/>
                     <navigationItem key="navigationItem" title="Maps" id="KPV-d1-4gF"/>
                     <connections>
                         <outlet property="mapWebView" destination="Z9z-qY-odR" id="hp9-Eg-DK0"/>
@@ -356,19 +356,19 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hZJ-MB-epk" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2617" y="-688"/>
+            <point key="canvasLocation" x="2617" y="-1034"/>
         </scene>
         <!--Schedule-->
         <scene sceneID="u1j-O3-KKj">
             <objects>
                 <navigationController id="fmk-0G-DXm" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Schedule" id="5Sf-bt-o54"/>
+                    <tabBarItem key="tabBarItem" title="Schedule" image="Page Overview 2-22" selectedImage="Page Overview 2 Filled-22" id="5Sf-bt-o54"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="73r-pi-Tev">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <connections>
-                        <segue destination="zqb-Rk-00Z" kind="relationship" relationship="rootViewController" id="iA4-nn-R0q"/>
+                        <segue destination="zqb-Rk-00Z" kind="relationship" relationship="rootViewController" id="bSF-jH-cpw"/>
                     </connections>
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Kvt-1M-Vag" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -388,7 +388,7 @@
                                 <rect key="frame" x="0.0" y="28" width="375" height="71"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="x3p-vw-hCB" id="hGV-Bb-EOm">
-                                    <rect key="frame" x="0.0" y="0.0" width="375" height="70"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="70.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="82P-5C-tl3">
@@ -406,11 +406,11 @@
                                             <nil key="highlightedColor"/>
                                         </label>
                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="time" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Bix-kT-0b7">
-                                            <rect key="frame" x="293" y="8" width="74" height="21"/>
+                                            <rect key="frame" x="212" y="8" width="155" height="21"/>
                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
                                             <nil key="textColor"/>
-                                            <nil key="highlightedColor"/>
+                                            <color key="highlightedColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                         </label>
                                     </subviews>
                                 </tableViewCellContentView>
@@ -426,6 +426,7 @@
                             <outlet property="delegate" destination="zqb-Rk-00Z" id="h0d-Hm-G9B"/>
                         </connections>
                     </tableView>
+                    <tabBarItem key="tabBarItem" title="Schedule" image="Page Overview 2-22" selectedImage="Page Overview 2 Filled-22" id="ffo-Qd-chL"/>
                     <navigationItem key="navigationItem" title="Schedule" id="c38-4s-Qd5"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1Ye-xK-qzT" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -433,4 +434,14 @@
             <point key="canvasLocation" x="4453.6000000000004" y="-698.5007496251875"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="Gift Filled-22" width="22" height="22"/>
+        <image name="Gift-22" width="22" height="22"/>
+        <image name="Map Filled-22" width="22" height="22"/>
+        <image name="Map-22" width="22" height="22"/>
+        <image name="Megaphone Filled-22" width="22" height="22"/>
+        <image name="Megaphone-22" width="22" height="22"/>
+        <image name="Page Overview 2 Filled-22" width="22" height="22"/>
+        <image name="Page Overview 2-22" width="22" height="22"/>
+    </resources>
 </document>
