@@ -16,6 +16,14 @@
     "location": "Ithaca,NY"
   },
   {
+    "name": "SpartaHack 2017",
+    "date": "January 20th - 22nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/529/thumb/sparta_splash.png?1479237472",
+    "hackURL": "http://www.spartahack.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/529/thumb/sparta_logo.png?1479237472",
+    "location": "East Lansing,MI"
+  },
+  {
     "name": "Hack The North",
     "date": "September 16th - 18th",
     "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/424/thumb/1311a958833a-Image.jpg?1472047989",
@@ -654,14 +662,6 @@
     "hackURL": "http://www.sbhacks.com/",
     "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/492/thumb/3847ca6fd027-pro_mlh2.png?1478048313",
     "location": "SantaBarbara,CA"
-  },
-  {
-    "name": "SpartaHack 2017",
-    "date": "January 20th - 22nd",
-    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/529/thumb/sparta_splash.png?1479237472",
-    "hackURL": "http://www.spartahack.com/",
-    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/529/thumb/sparta_logo.png?1479237472",
-    "location": "EastLansing,MI"
   },
   {
     "name": "SwampHacks",
