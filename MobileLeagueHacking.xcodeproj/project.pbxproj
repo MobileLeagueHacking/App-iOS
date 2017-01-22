@@ -17,6 +17,10 @@
 		E111994E1E34D2F900E7E0EC /* Prizes.swift in Sources */ = {isa = PBXBuildFile; fileRef = E111994D1E34D2F900E7E0EC /* Prizes.swift */; };
 		E11199501E34D30600E7E0EC /* PrizesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E111994F1E34D30600E7E0EC /* PrizesCell.swift */; };
 		E11199521E34D70B00E7E0EC /* prizes.json in Resources */ = {isa = PBXBuildFile; fileRef = E11199511E34D70B00E7E0EC /* prizes.json */; };
+		E11199571E34EB0000E7E0EC /* ScheduleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11199561E34EB0000E7E0EC /* ScheduleViewController.swift */; };
+		E111995A1E34EB3900E7E0EC /* Schedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11199591E34EB3900E7E0EC /* Schedule.swift */; };
+		E111995C1E34EB5100E7E0EC /* ScheduleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E111995B1E34EB5100E7E0EC /* ScheduleCell.swift */; };
+		E111995E1E34EE4000E7E0EC /* events.json in Resources */ = {isa = PBXBuildFile; fileRef = E111995D1E34EE4000E7E0EC /* events.json */; };
 		E12375761E3389D6002A00A0 /* HackathonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E12375751E3389D6002A00A0 /* HackathonViewController.swift */; };
 		E18975B71E333CC100CA4FC2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18975B61E333CC100CA4FC2 /* AppDelegate.swift */; };
 		E18975BE1E333CC100CA4FC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E18975BC1E333CC100CA4FC2 /* Main.storyboard */; };
@@ -59,6 +63,10 @@
 		E111994D1E34D2F900E7E0EC /* Prizes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Prizes.swift; sourceTree = "<group>"; };
 		E111994F1E34D30600E7E0EC /* PrizesCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrizesCell.swift; sourceTree = "<group>"; };
 		E11199511E34D70B00E7E0EC /* prizes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = prizes.json; sourceTree = "<group>"; };
+		E11199561E34EB0000E7E0EC /* ScheduleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScheduleViewController.swift; sourceTree = "<group>"; };
+		E11199591E34EB3900E7E0EC /* Schedule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Schedule.swift; sourceTree = "<group>"; };
+		E111995B1E34EB5100E7E0EC /* ScheduleCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScheduleCell.swift; sourceTree = "<group>"; };
+		E111995D1E34EE4000E7E0EC /* events.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = events.json; sourceTree = "<group>"; };
 		E12375751E3389D6002A00A0 /* HackathonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HackathonViewController.swift; path = ../HackathonViewController.swift; sourceTree = "<group>"; };
 		E18975B31E333CC100CA4FC2 /* MobileLeagueHacking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MobileLeagueHacking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E18975B61E333CC100CA4FC2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -143,6 +151,27 @@
 			name = AnnouncementView;
 			sourceTree = "<group>";
 		};
+		E11199581E34EB1B00E7E0EC /* ScheduleView */ = {
+			isa = PBXGroup;
+			children = (
+				E11199561E34EB0000E7E0EC /* ScheduleViewController.swift */,
+				E11199591E34EB3900E7E0EC /* Schedule.swift */,
+				E111995B1E34EB5100E7E0EC /* ScheduleCell.swift */,
+			);
+			name = ScheduleView;
+			sourceTree = "<group>";
+		};
+		E111995F1E34F2E400E7E0EC /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				E11199551E34E0D200E7E0EC /* AnnouncementView */,
+				E11199531E34E0BA00E7E0EC /* HackathonView */,
+				E11199541E34E0C700E7E0EC /* PrizeView */,
+				E11199581E34EB1B00E7E0EC /* ScheduleView */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
 		E18975AA1E333CC100CA4FC2 = {
 			isa = PBXGroup;
 			children = (
@@ -168,15 +197,14 @@
 		E18975B51E333CC100CA4FC2 /* MobileLeagueHacking */ = {
 			isa = PBXGroup;
 			children = (
-				E11199551E34E0D200E7E0EC /* AnnouncementView */,
+				E111995D1E34EE4000E7E0EC /* events.json */,
+				E111995F1E34F2E400E7E0EC /* ViewControllers */,
 				E11199511E34D70B00E7E0EC /* prizes.json */,
 				E18975B61E333CC100CA4FC2 /* AppDelegate.swift */,
 				E18975C11E333CC200CA4FC2 /* LaunchScreen.storyboard */,
 				E11199491E34766C00E7E0EC /* annoucements.json */,
 				E19B02B71E3353F50067960A /* mlh.json */,
-				E11199531E34E0BA00E7E0EC /* HackathonView */,
 				E18975BC1E333CC100CA4FC2 /* Main.storyboard */,
-				E11199541E34E0C700E7E0EC /* PrizeView */,
 				E18975BF1E333CC200CA4FC2 /* Assets.xcassets */,
 				E18975C41E333CC200CA4FC2 /* Info.plist */,
 				E11199411E34537600E7E0EC /* MapViewController.swift */,
@@ -325,6 +353,7 @@
 				E11199521E34D70B00E7E0EC /* prizes.json in Resources */,
 				E18975C31E333CC200CA4FC2 /* LaunchScreen.storyboard in Resources */,
 				E19B02B81E3353F50067960A /* mlh.json in Resources */,
+				E111995E1E34EE4000E7E0EC /* events.json in Resources */,
 				E18975C01E333CC200CA4FC2 /* Assets.xcassets in Resources */,
 				E18975BE1E333CC100CA4FC2 /* Main.storyboard in Resources */,
 				E111994A1E34766C00E7E0EC /* annoucements.json in Resources */,
@@ -403,13 +432,16 @@
 				E11199421E34537600E7E0EC /* MapViewController.swift in Sources */,
 				E18975B71E333CC100CA4FC2 /* AppDelegate.swift in Sources */,
 				F542B4681E33F308006D3278 /* Hackathon.swift in Sources */,
+				E11199571E34EB0000E7E0EC /* ScheduleViewController.swift in Sources */,
 				E12375761E3389D6002A00A0 /* HackathonViewController.swift in Sources */,
 				E111994E1E34D2F900E7E0EC /* Prizes.swift in Sources */,
 				E11199501E34D30600E7E0EC /* PrizesCell.swift in Sources */,
 				E111994C1E34A9D500E7E0EC /* PrizeViewController.swift in Sources */,
 				E11199481E34734400E7E0EC /* AnnouncementCell.swift in Sources */,
 				E11199461E3472E000E7E0EC /* Announcement.swift in Sources */,
+				E111995C1E34EB5100E7E0EC /* ScheduleCell.swift in Sources */,
 				E11199441E346D1700E7E0EC /* AnnouncementViewController.swift in Sources */,
+				E111995A1E34EB3900E7E0EC /* Schedule.swift in Sources */,
 				F542B4661E33EC62006D3278 /* HackathonCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

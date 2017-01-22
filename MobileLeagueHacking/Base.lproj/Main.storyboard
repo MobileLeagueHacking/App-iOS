@@ -349,41 +349,78 @@
             <point key="canvasLocation" x="2617" y="-688"/>
         </scene>
         <!--Schedule-->
-        <scene sceneID="waz-fX-EFV">
-            <objects>
-                <viewController id="oR0-qO-mkq" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="19g-7A-AmK"/>
-                        <viewControllerLayoutGuide type="bottom" id="CuD-4q-Q1k"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="3CH-pJ-D8y">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </view>
-                    <tabBarItem key="tabBarItem" title="Schedule" id="aPW-dJ-GmS"/>
-                    <navigationItem key="navigationItem" title="Schedule" id="83A-Sk-g3x"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="UQO-5I-5rQ" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="4450" y="-689"/>
-        </scene>
-        <!--Item-->
         <scene sceneID="u1j-O3-KKj">
             <objects>
                 <navigationController id="fmk-0G-DXm" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="5Sf-bt-o54"/>
+                    <tabBarItem key="tabBarItem" title="Schedule" id="5Sf-bt-o54"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="73r-pi-Tev">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <connections>
-                        <segue destination="oR0-qO-mkq" kind="relationship" relationship="rootViewController" id="6g3-46-5fm"/>
+                        <segue destination="zqb-Rk-00Z" kind="relationship" relationship="rootViewController" id="iA4-nn-R0q"/>
                     </connections>
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Kvt-1M-Vag" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3538" y="-689"/>
+        </scene>
+        <!--Schedule-->
+        <scene sceneID="7rJ-rx-wmB">
+            <objects>
+                <tableViewController id="zqb-Rk-00Z" customClass="ScheduleViewController" customModule="MobileLeagueHacking" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="71" sectionHeaderHeight="28" sectionFooterHeight="28" id="gC3-7B-cqC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="ScheduleTableViewCell" rowHeight="71" id="x3p-vw-hCB" customClass="ScheduleCell" customModule="MobileLeagueHacking" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="28" width="375" height="71"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="x3p-vw-hCB" id="hGV-Bb-EOm">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="70"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="82P-5C-tl3">
+                                            <rect key="frame" x="16" y="8" width="149" height="21"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Location" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gUU-DD-oG5">
+                                            <rect key="frame" x="16" y="41" width="182" height="21"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="time" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Bix-kT-0b7">
+                                            <rect key="frame" x="293" y="8" width="74" height="21"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="location" destination="gUU-DD-oG5" id="cNI-Tk-YWn"/>
+                                    <outlet property="name" destination="82P-5C-tl3" id="mdk-ov-vor"/>
+                                    <outlet property="time" destination="Bix-kT-0b7" id="3fE-9J-U4F"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="zqb-Rk-00Z" id="O6r-6h-9WW"/>
+                            <outlet property="delegate" destination="zqb-Rk-00Z" id="h0d-Hm-G9B"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" title="Schedule" id="c38-4s-Qd5"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="1Ye-xK-qzT" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4453.6000000000004" y="-698.5007496251875"/>
         </scene>
     </scenes>
 </document>
