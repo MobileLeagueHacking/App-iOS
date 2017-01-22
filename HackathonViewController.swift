@@ -101,4 +101,33 @@ class HackathonViewController: UITableViewController {
         return cell
         
     }
+    
+    // MARK : Navigation
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        guard let parent = segue.destination as? UITabBarController else {
+            return
+        }
+        
+        // Load Maps VC
+        guard let mapsVC = parent.childViewControllers[0] as? MapViewController else {
+            return
+        }
+        
+        // Load announcement VC
+        guard let announcementsVC = parent.childViewControllers[1] as? AnnouncementViewController else {
+            return
+        }
+
+        // Load schedule VC
+        guard let scheduleVC = parent.childViewControllers[2] as? ScheduleViewController else {
+            return
+        }
+        
+        // Load Prizes VC
+        guard let prizesVC = parent.childViewControllers[3] as? PrizeViewController else {
+            return
+        }
+        
+        
+    }
 }
