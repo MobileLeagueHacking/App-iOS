@@ -130,13 +130,13 @@
 		E18975B51E333CC100CA4FC2 /* MobileLeagueHacking */ = {
 			isa = PBXGroup;
 			children = (
+				E18975C11E333CC200CA4FC2 /* LaunchScreen.storyboard */,
 				E11199491E34766C00E7E0EC /* annoucements.json */,
 				E12375751E3389D6002A00A0 /* HackathonViewController.swift */,
 				E19B02B71E3353F50067960A /* mlh.json */,
 				E18975B61E333CC100CA4FC2 /* AppDelegate.swift */,
 				E18975BC1E333CC100CA4FC2 /* Main.storyboard */,
 				E18975BF1E333CC200CA4FC2 /* Assets.xcassets */,
-				E18975C11E333CC200CA4FC2 /* LaunchScreen.storyboard */,
 				E18975C41E333CC200CA4FC2 /* Info.plist */,
 				F542B4651E33EC62006D3278 /* HackathonCell.swift */,
 				F542B4671E33F308006D3278 /* Hackathon.swift */,
