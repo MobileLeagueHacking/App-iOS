@@ -14,8 +14,6 @@ class AnnouncementViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
-      
         let url = Bundle.main.url(forResource: "annoucements", withExtension: "json")
         let data = NSData(contentsOf: url!)
         let jdata = JSON(data!)
@@ -26,11 +24,9 @@ class AnnouncementViewController: UITableViewController {
             announcement.body = json["body"]!.stringValue
             
             self.annoucements.append(announcement)
-            self.tableView.setNeedsLayout()
-            self.tableView.layoutIfNeeded()
-            
         }
-
+        self.tableView.setNeedsLayout()
+        self.tableView.layoutIfNeeded()
     }
 
     override func didReceiveMemoryWarning() {
