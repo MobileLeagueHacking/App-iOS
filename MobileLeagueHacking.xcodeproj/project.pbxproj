@@ -310,7 +310,7 @@
 				TargetAttributes = {
 					E18975B21E333CC100CA4FC2 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 9A36UARD24;
+						DevelopmentTeam = VGFA2FB5NJ;
 						ProvisioningStyle = Automatic;
 					};
 					E18975C81E333CC200CA4FC2 = {
@@ -593,14 +593,14 @@
 			baseConfigurationReference = 5DEC7A8BB02178B1609EAA6A /* Pods-MobileLeagueHacking.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9A36UARD24;
+				DEVELOPMENT_TEAM = VGFA2FB5NJ;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/build/Debug-iphoneos/SwiftyJSON",
 				);
 				INFOPLIST_FILE = MobileLeagueHacking/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = hype.MobileLeagueHacking;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mobileleaguehacking.hype;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -611,14 +611,14 @@
 			baseConfigurationReference = 1B8F64B10B45D5846C463A34 /* Pods-MobileLeagueHacking.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9A36UARD24;
+				DEVELOPMENT_TEAM = VGFA2FB5NJ;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/build/Debug-iphoneos/SwiftyJSON",
 				);
 				INFOPLIST_FILE = MobileLeagueHacking/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = hype.MobileLeagueHacking;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mobileleaguehacking.hype;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
