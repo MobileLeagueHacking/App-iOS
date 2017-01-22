@@ -33,6 +33,7 @@ class HackathonViewController: UITableViewController {
             hackathon.location = event["location"]!.stringValue
             
             self.hackathons.append(hackathon)
+           
         }
     }
     
@@ -98,5 +99,6 @@ class HackathonViewController: UITableViewController {
         setImageFromURL(view: cell.splashImage, url: event.imageURL)
         
         return cell
+        
     }
 }
