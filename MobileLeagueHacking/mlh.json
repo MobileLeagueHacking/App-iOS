@@ -1,0 +1,1106 @@
+[
+  {
+    "name": "HackMTY",
+    "date": "August 27th - 28th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/392/thumb/930adc5ed398-hackmtyMLH_300x300.png?1467906271",
+    "hackURL": "http://hackmty.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/392/thumb/e722cf7c0b4d-hackmtyMLH_100x100.png?1467906270",
+    "location": "Monterrey,MX"
+  },
+  {
+    "name": "BigRed//Hacks",
+    "date": "September 16th - 18th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/398/thumb/1367a835fd31-mlh_splash_page.png?1469112017",
+    "hackURL": "https://www.bigredhacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/398/thumb/070a721adf22-rsz_brh_icon_120.png?1469112016",
+    "location": "Ithaca,NY"
+  },
+  {
+    "name": "Hack The North",
+    "date": "September 16th - 18th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/424/thumb/1311a958833a-Image.jpg?1472047989",
+    "hackURL": "https://hackthenorth.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/424/thumb/6d101c86172d-logo.jpg?1472047989",
+    "location": "Waterloo,ON"
+  },
+  {
+    "name": "HackISU",
+    "date": "September 17th - 18th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/437/thumb/isu_splash.jpg?1473193348",
+    "hackURL": "http://hackisu.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/437/thumb/isu_logo.png?1473193346",
+    "location": "Ames,IA"
+  },
+  {
+    "name": "lumohacks",
+    "date": "September 17th - 18th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/395/thumb/b23e7726924a-preview_image_mlh1_01.png?1468936720",
+    "hackURL": "http://lumohacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/395/thumb/f3f7cb7fac1a-lumohacks_icon_01.png?1468936720",
+    "location": "Vancouver,BC"
+  },
+  {
+    "name": "RamHacks",
+    "date": "September 17th - 18th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/408/thumb/f0de1acf2594-ramhacks_bg.jpg?1470949092",
+    "hackURL": "http://ramhacks.vcu.edu/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/408/thumb/0c2e046a2e5f-ramhacks_mlhsite.jpg?1470949092",
+    "location": "Richmond,VA"
+  },
+  {
+    "name": "HackGT",
+    "date": "September 23rd - 25th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/426/thumb/14138345_953311511462952_754320351_n.jpg?1472411435",
+    "hackURL": "https://hackgt.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/426/thumb/14137714_953311434796293_1365177371_n.jpg?1472411435",
+    "location": "Atlanta,GA"
+  },
+  {
+    "name": "MedHacks",
+    "date": "September 23rd - 25th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/404/thumb/53ff855d2859-MLH300x300_2.png?1470243327",
+    "hackURL": "http://medhacks.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/404/thumb/ed44a1a4e126-MLHMedhacks100px100px.png?1470243326",
+    "location": "Baltimore,MD"
+  },
+  {
+    "name": "HackCooper",
+    "date": "September 24th - 25th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/401/thumb/13875014_10206872869395375_1352890987_n.jpg?1469805435",
+    "hackURL": "http://hackcooper.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/401/thumb/13872470_10206872809913888_686774140_n.png?1469805068",
+    "location": "NewYork,NY"
+  },
+  {
+    "name": "HackDartmouth III",
+    "date": "September 24th - 25th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/406/thumb/dab57945702f-cover__300x300_.jpg?1470339874",
+    "hackURL": "http://hackdartmouth.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/406/thumb/6163804eb58a-logo__100x100_.jpg?1470339873",
+    "location": "Hanover,NH"
+  },
+  {
+    "name": "SD Hacks",
+    "date": "September 30th - October 2nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/391/thumb/14f2a15b892f-geisel.jpg?1467906222",
+    "hackURL": "https://www.sdhacks.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/391/thumb/eaba3a3c59cc-logo100x100.png?1467906222",
+    "location": "SanDiego,CA"
+  },
+  {
+    "name": "VolHacks",
+    "date": "September 30th - October 2nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/399/thumb/f9de94e56110-tb_mentor_form.jpg?1469543825",
+    "hackURL": "https://volhacks.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/399/thumb/1469546240.png?1469546832",
+    "location": "Knoxville,TN"
+  },
+  {
+    "name": "HackUMBC",
+    "date": "October 1st - 2nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/449/thumb/umbc_background.png?1473691526",
+    "hackURL": "http://hackumbc.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/449/thumb/umbc_badge.png?1473691526",
+    "location": "Baltimore,MD"
+  },
+  {
+    "name": "HealthHacks",
+    "date": "October 1st - 2nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/422/thumb/HealthHacksBannerImage.jpg?1471894024",
+    "hackURL": "http://healthhacks.vcu.edu/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/422/thumb/HealthHacks.jpg?1471894023",
+    "location": "Richmond,VA"
+  },
+  {
+    "name": "TAMUhack",
+    "date": "October 1st - 2nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/421/thumb/0cfcfd51b87f-white_splash.png?1471875565",
+    "hackURL": "http://tamuhack.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/421/thumb/059f02526514-th_logo_square.png?1471875564",
+    "location": "CollegeStation,TX"
+  },
+  {
+    "name": "WHACK",
+    "date": "October 1st - 2nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/393/thumb/whack-splash.jpg?1467907132",
+    "hackURL": "http://wellesleyhacks.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/393/thumb/efebd56556cb-whacklogo.png?1467907131",
+    "location": "Wellesley,MA"
+  },
+  {
+    "name": "HackUMass IV",
+    "date": "October 7th - 9th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/423/thumb/hackumass-background-typeform.png?1471917471",
+    "hackURL": "http://hackumass.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/423/thumb/hackumass-logo-typeform.png?1471917470",
+    "location": "Amherst,MA"
+  },
+  {
+    "name": "HackUState",
+    "date": "October 7th - 8th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/456/thumb/c2cf7c10e1bf-mlh_Logo_1_02.png?1474023837",
+    "hackURL": "https://hackustate.org/#/?_k=o9xwux",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/456/thumb/305a42a0cb59-mlh_Logo_1_01.png?1474023836",
+    "location": "Logan,UT"
+  },
+  {
+    "name": "Kent Hack Enough",
+    "date": "October 7th - 9th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/414/thumb/khe_splash.png?1471555384",
+    "hackURL": "https://khe.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/414/thumb/khe_logo.png?1471555384",
+    "location": "Kent,OH"
+  },
+  {
+    "name": "MHacks 8",
+    "date": "October 7th - 9th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/430/thumb/14164153_10208609204440259_1997921231_o.png?1472590104",
+    "hackURL": "https://mhacks.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/430/thumb/e9875b49adc1-pp_02.png?1472590104",
+    "location": "Detroit,MI"
+  },
+  {
+    "name": "hackNY",
+    "date": "October 8th - 9th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/444/thumb/79cb19708411-hackny_mlh_splash.jpg?1473343047",
+    "hackURL": "http://hackny.org/hackathon/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/444/thumb/6e94d2308d9e-hackNY_Square_Red_Logo100px.png?1473343046",
+    "location": "NewYork,NY"
+  },
+  {
+    "name": "RevolutionUC",
+    "date": "October 8th - 9th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/440/thumb/40fd1d387eff-image10.png?1473254801",
+    "hackURL": "https://revolutionuc.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/440/thumb/3b9b9114a087-mlhrevuc100.png?1473254800",
+    "location": "Cincinnati,OH"
+  },
+  {
+    "name": "HackRice",
+    "date": "October 14th - 16th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/413/thumb/splash.png?1471546339",
+    "hackURL": "http://hack.rice.edu/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/413/thumb/logo.png?1471546339",
+    "location": "Houston,TX"
+  },
+  {
+    "name": "Hack Western 3",
+    "date": "October 14th - 16th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/447/thumb/14248141_10154451948340883_1549752554_o.png?1473430083",
+    "hackURL": "https://hackwestern.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/447/thumb/106b948e212e-mlh_02.png?1473429735",
+    "location": "London,ON"
+  },
+  {
+    "name": "QuackCon",
+    "date": "October 14th - 16th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/400/thumb/d549896a71da-presplash_Cropped.jpg?1469638363",
+    "hackURL": "http://www.quackcon.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/400/thumb/logo.jpg?1469638362",
+    "location": "Eugene,OR"
+  },
+  {
+    "name": "DubHacks",
+    "date": "October 15th - 16th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/425/thumb/b1ad9477de7d-background_300px.png?1472048405",
+    "hackURL": "http://16f.dubhacks.co/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/425/thumb/4164fddbdfe2-logo_100px.png?1472048405",
+    "location": "Seattle,WA"
+  },
+  {
+    "name": "GlassHacks",
+    "date": "October 15th - 16th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/458/thumb/glasshacks_background.jpg?1474387061",
+    "hackURL": "http://glasshacks.net/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/458/thumb/glasshacks_logo.png?1474387061",
+    "location": "Toledo,OH"
+  },
+  {
+    "name": "HackMizzou",
+    "date": "October 15th - 16th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/469/thumb/67937bbab804-forest300x300.png?1475160513",
+    "hackURL": "http://hackmizzou.com",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/469/thumb/10404c61651b-HackMizzou100x100.png?1475160513",
+    "location": "Columbia,MO"
+  },
+  {
+    "name": "HackRiddle",
+    "date": "October 15th - 16th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/405/thumb/e2bc574afde4-mlh_background.png?1470327124",
+    "hackURL": "http://hackriddle.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/405/thumb/957e26d8c0e8-hackriddle_circle_small.png?1470327124",
+    "location": "DaytonaBeach,FL"
+  },
+  {
+    "name": "Citrus Hack",
+    "date": "October 21st - 23rd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/429/thumb/0a498ee1cb29-MLH_Season_Splash_Background.png?1472576356",
+    "hackURL": "http://www.citrushack.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/429/thumb/132e9a0d9888-MLH_Season_Splash_Logo.png?1472576355",
+    "location": "Riverside,CA"
+  },
+  {
+    "name": "HackGSU",
+    "date": "October 21st - 23rd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/427/thumb/centennial.jpg?1472481392",
+    "hackURL": "http://hackgsu.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/427/thumb/2dfff3ffdf87-100x100_Georgia_State_Panthers_Logo.png?1472481302",
+    "location": "Atlanta,GA"
+  },
+  {
+    "name": "HackHarvard",
+    "date": "October 21st - 23rd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/411/thumb/background.png?1471537691",
+    "hackURL": "http://hackharvard.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/411/thumb/logo.jpg?1471537691",
+    "location": "Cambridge,MA"
+  },
+  {
+    "name": "HopHacks",
+    "date": "October 21st - 23rd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/463/thumb/hophacks_splash.png?1474986228",
+    "hackURL": "https://hophacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/463/thumb/hophacks_logo.png?1474986228",
+    "location": "Baltimore,MD"
+  },
+  {
+    "name": "YCP Hacks",
+    "date": "October 21st - 23rd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/407/thumb/865e0207fbcf-Yorktowne.png?1470930630",
+    "hackURL": "http://www.ycphacks.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/407/thumb/110d11e4cb96-Fountain_ico.png?1470930629",
+    "location": "York,PA"
+  },
+  {
+    "name": "BioHackLA",
+    "date": "October 22nd - 23rd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/457/thumb/f18536e9f928-4549221_circuit_board.jpg?1474386712",
+    "hackURL": "http://www.calstatelabusiness.com/biohacklaland",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/457/thumb/116838fdfd64-Screen_Shot_2016_09_14_at_4.31.38_PM.png?1474386712",
+    "location": "LosAngeles,LA"
+  },
+  {
+    "name": "FiskHacks",
+    "date": "October 22nd - 23rd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/439/thumb/fiskhacks_splash.png?1473198481",
+    "hackURL": "http://fiskhacks.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/439/thumb/fiskhacks_logo.png?1473198480",
+    "location": "Nashville,TN"
+  },
+  {
+    "name": "HackRU",
+    "date": "October 22nd - 23rd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/428/thumb/e76566a3cd2b-splash_image_HackRU.png?1472493591",
+    "hackURL": "http://www.hackru.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/428/thumb/3b9064ba3d90-logo_HackRU.png?1472493590",
+    "location": "NewBrunswick,NJ"
+  },
+  {
+    "name": "HackTX",
+    "date": "October 22nd - 23rd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/445/thumb/abb3bfbc7fc9-dontmesswithaustintexasweb.jpg?1473343316",
+    "hackURL": "https://hacktx.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/445/thumb/unnamed.png?1473384027",
+    "location": "Austin,TX"
+  },
+  {
+    "name": "MIA Game Jam",
+    "date": "October 22nd - 23rd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/409/thumb/cc22c39127b3-Splash2.jpg?1471014416",
+    "hackURL": "http://www.miagamejam.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/409/thumb/86d1a7e8f343-MIAGameJamLogo100x100.jpg?1471014416",
+    "location": "Miami,FL"
+  },
+  {
+    "name": "HackBajio",
+    "date": "October 28th - 30th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/489/thumb/5e9397fb06e2-12744061_997026657047213_8119146837550134855_n_2.jpg?1477339730",
+    "hackURL": "http://karenina23dic.wixsite.com/e-gov",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/489/thumb/a00183c4cc7c-final2.png?1477339729",
+    "location": "Leon,MX"
+  },
+  {
+    "name": "hackMarist",
+    "date": "October 28th - 30th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/461/thumb/unnamed.jpg?1474474112",
+    "hackURL": "https://hackmarist.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/461/thumb/db6e1ef4431b-hackathon_logo_300px.jpg?1474474111",
+    "location": "Poughkeepsie,NY"
+  },
+  {
+    "name": "HackNC",
+    "date": "October 28th - 30th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/432/thumb/ad14916e6e95-hacknc_splash.jpg?1472851570",
+    "hackURL": "https://hacknc.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/432/thumb/a106343390b1-hacknc_logo.png?1472851570",
+    "location": "ChapelHill,NC"
+  },
+  {
+    "name": "CodeRED Curiosity",
+    "date": "October 29th - 30th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/410/thumb/codered_square.jpg?1471358524",
+    "hackURL": "https://uhcode.red/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/410/thumb/codered_logo.jpg?1471358524",
+    "location": "Houston,TX"
+  },
+  {
+    "name": "Invent:YU",
+    "date": "October 29th - 30th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/464/thumb/invent_yu_splash.png?1474987046",
+    "hackURL": "https://inventyu.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/464/thumb/invent_yu_logo.png?1474987046",
+    "location": "NewYork,NY"
+  },
+  {
+    "name": "ArchHacks ",
+    "date": "November 4th - 6th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/394/thumb/3cc95e0f87ba-MLH_ArchHacks_Splash_Image.jpg?1468513253",
+    "hackURL": "http://archhacks.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/394/thumb/d804ade10677-MLH_ArchHacks_Logo.jpg?1468513253",
+    "location": "StLouis,MO"
+  },
+  {
+    "name": "Electric City Hacks",
+    "date": "November 4th - 6th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/402/thumb/trent-mlh-background.png?1470065543",
+    "hackURL": "http://2016.echacks.xyz/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/402/thumb/unnamed.png?1470066337",
+    "location": "Peterborough,ON"
+  },
+  {
+    "name": "HackathonCOPARMEX",
+    "date": "November 4th - 5th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/479/thumb/slider7.jpg?1476117423",
+    "hackURL": "http://hackathoncoparmex.mx/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/479/thumb/e1ce919a562d-logo_hackcoparmex_300x300.png?1476117422",
+    "location": "Cuernavaca,MX"
+  },
+  {
+    "name": "HackHolyoke",
+    "date": "November 4th - 5th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/443/thumb/hack_holyoke_logo.jpg?1473281782",
+    "hackURL": "http://www.hackholyoke.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/443/thumb/hack_holyoke_splash.png?1473281780",
+    "location": "SouthHadley,MA"
+  },
+  {
+    "name": "Hoya Hacks ",
+    "date": "November 4th - 6th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/435/thumb/1b0c0a537195-MLHSplash.png?1473063426",
+    "hackURL": "http://www.hoyahacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/435/thumb/ecf5a34a5f58-bulldog.png?1473063425",
+    "location": "Washington,DC"
+  },
+  {
+    "name": "UGA Hacks",
+    "date": "November 4th - 6th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/481/thumb/3359ab02e01c-UGAHACKS_SPLASH_MLH_300x300.png?1476215791",
+    "hackURL": "http://www.ugahacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/481/thumb/7eb8454090f1-UGAHACKS_LOGO_MLH_100x100.png?1476215790",
+    "location": "Athens,GA"
+  },
+  {
+    "name": "Hack AE",
+    "date": "November 5th - 6th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/436/thumb/Hack_AE_Splash.jpg?1473181809",
+    "hackURL": "http://theaeac.org/events/hackae/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/436/thumb/Hack_AE_Logo.png?1473181808",
+    "location": "Binghamton,NY"
+  },
+  {
+    "name": "HackNJIT",
+    "date": "November 5th - 6th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/455/thumb/photo.jpg?1473884805",
+    "hackURL": "http://hacknjit.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/455/thumb/228400a0fe4a-HackNJITAvatar100.jpeg?1473884805",
+    "location": "Newark,NJ"
+  },
+  {
+    "name": "Hack The Hill",
+    "date": "November 5th - 6th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/442/thumb/hack_the_hill_splash.jpg?1473267090",
+    "hackURL": "http://hackthehill.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/442/thumb/hack_the_hill_logo.png?1473267090",
+    "location": "BowlingGreen,KY"
+  },
+  {
+    "name": "Huskie Hack 2016 ",
+    "date": "November 5th - 6th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/403/thumb/16-HSC-0621-RB-07_640x320.jpg?1470150617",
+    "hackURL": "http://www.huskiehack.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/403/thumb/59fffd1d727a-black_paw.png?1470150616",
+    "location": "DeKalb,IL"
+  },
+  {
+    "name": "Technica",
+    "date": "November 5th - 6th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/451/thumb/technica_splash.png?1473775071",
+    "hackURL": "http://gotechnica.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/451/thumb/technica_logo.png?1473775071",
+    "location": "CollegePark,MD"
+  },
+  {
+    "name": "GunnHacks",
+    "date": "November 11th - 13th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/476/thumb/9e41796b1aba-new.jpg?1475981175",
+    "hackURL": "https://gunnhacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/476/thumb/dcb8252d8075-14627821_1301373256574601_541012331_n.jpg?1475981174",
+    "location": "PaloAlto,CA"
+  },
+  {
+    "name": "Hackital",
+    "date": "November 11th - 13th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/462/thumb/hackital_background.png?1474558385",
+    "hackURL": "http://www.hackital.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/462/thumb/hackital-1.png?1474570367",
+    "location": "Washington,DC"
+  },
+  {
+    "name": "Hack K-State",
+    "date": "November 11th - 13th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/486/thumb/c67c303556d0-MLH_Splash.jpg?1476892864",
+    "hackURL": "https://hack.k-state.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/486/thumb/b4bfcf98938b-MLH_Logo.png?1476892863",
+    "location": "Manhattan,KS"
+  },
+  {
+    "name": "HackPrinceton",
+    "date": "November 11th - 13th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/470/thumb/8bccbc46b394-300x300.png?1475456073",
+    "hackURL": "https://hackprinceton.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/470/thumb/65de84f9b0ef-100x100.png?1475456073",
+    "location": "Princeton,NJ"
+  },
+  {
+    "name": "HackTheU",
+    "date": "November 11th - 12th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/453/thumb/69ed1b254613-exterior_rendering_small.jpg?1473802264",
+    "hackURL": "http://hacktheu.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/453/thumb/df6c0d60df48-HackULogoWhite.png?1473802263",
+    "location": "SaltLakeCity,UT"
+  },
+  {
+    "name": "VandyHacks",
+    "date": "November 11th - 13th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/467/thumb/52d431a3dbc4-Splash.png?1475074427",
+    "hackURL": "http://www.vandyhacks.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/467/thumb/227417dc524c-Logo.jpg?1475074426",
+    "location": "Nashville,TN"
+  },
+  {
+    "name": "HackPSU",
+    "date": "November 12th - 13th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/446/thumb/4fe2f305a771-hackpsuSPLASH.png?1473344393",
+    "hackURL": "http://hackpsu.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/446/thumb/f80f0c13c6d3-hackpsulogo100x100.png?1473344393",
+    "location": "StateCollege,PA"
+  },
+  {
+    "name": "HackRPI",
+    "date": "November 12th - 13th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/438/thumb/hackrpi_background.png?1473198270",
+    "hackURL": "https://hackrpi.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/438/thumb/hackrpi_logo.png?1473198270",
+    "location": "Troy,NY"
+  },
+  {
+    "name": "MLH Prime: Southwest",
+    "date": "November 12th - 13th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/454/thumb/mlh-wesbite-splash-2.jpg?1473862926",
+    "hackURL": "https://prime.mlh.io/events/southwest-regional/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/454/thumb/mlh-wesbite-logo.jpg?1473862925",
+    "location": "Austin,TX"
+  },
+  {
+    "name": "MxHacks IV",
+    "date": "November 12th - 13th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/450/thumb/212ff59d0b78-300_x_300.png?1473692103",
+    "hackURL": "https://mxhacks.mx/#/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/450/thumb/03d43fb9de2b-100_x_100.png?1473692103",
+    "location": "SantaFe,MX"
+  },
+  {
+    "name": "TecmiHacks",
+    "date": "November 12th - 13th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/448/thumb/screencapture-tecmihacks-1473444565042.png?1473444655",
+    "hackURL": "http://www.tecmihacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/448/thumb/327ca58050fb-tecmihacks_emblem.png?1473444655",
+    "location": "Monterrey,MX"
+  },
+  {
+    "name": "WildHacks ",
+    "date": "November 18th - 20th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/433/thumb/d35a80928d40-mlh.png?1472967957",
+    "hackURL": "http://wildhacks.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/433/thumb/cb3140616b7b-Artboard_1.png?1472967957",
+    "location": "Evanston,IL"
+  },
+  {
+    "name": "Def Hacks() NY",
+    "date": "November 19th - 20th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/527/thumb/def300.png?1478290702",
+    "hackURL": "http://defhacks.xyz/ny.html",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/527/thumb/def100.png?1478290702",
+    "location": "NewYork,NY"
+  },
+  {
+    "name": "HackDuke: Code For Good",
+    "date": "November 19th - 20th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/468/thumb/79ea9123b5d3-duke.png?1475160234",
+    "hackURL": "https://www.hackduke.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/468/thumb/46eb3dd679b3-banner.png?1475160233",
+    "location": "Durham,NC"
+  },
+  {
+    "name": "The Lady Hacks",
+    "date": "November 19th - 20th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/493/thumb/14958115_618055635033957_1798768685_o.jpg?1478097768",
+    "hackURL": "http://theladyhacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/493/thumb/d25b54c93042-14666191_612127508960103_2810422723297829197_n.jpg?1478097767",
+    "location": "Toronto,ON"
+  },
+  {
+    "name": "Creative Hack",
+    "date": "December 2nd - 3rd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/537/thumb/unam_splash.jpg?1479402907",
+    "hackURL": "https://gdgunam.com/hack",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/537/thumb/unam_logo.png?1479402907",
+    "location": "Nezahualcóyotl,MX"
+  },
+  {
+    "name": "LehighHacks",
+    "date": "December 2nd - 3rd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/485/thumb/intro-bg.jpg?1476729835",
+    "hackURL": "http://www.lehighhacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/485/thumb/de299a57c7a0-lehighhacks_logo_300.png?1476729835",
+    "location": "Bethlehem,PA"
+  },
+  {
+    "name": "Local Hack Day",
+    "date": "December 3rd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/396/thumb/lhd-back.png?1468939342",
+    "hackURL": "https://localhackday.mlh.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/396/thumb/lhd_front.png?1468939341",
+    "location": "Everywhere,Worldwide"
+  },
+  {
+    "name": "Hack the Valley",
+    "date": "January 7th - 8th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/556/thumb/hack_the_valley_splash.png?1481580684",
+    "hackURL": "https://www.hackvalley.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/556/thumb/hack_the_valley_logo.png?1481580683",
+    "location": "Toronto,ON"
+  },
+  {
+    "name": "Hack Arizona",
+    "date": "January 13th - 15th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/539/thumb/hack_arizona_splash.jpg?1479487969",
+    "hackURL": "http://hackarizona.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/539/thumb/hack_arizona_logo.jpg?1479487969",
+    "location": "Tucson,AZ"
+  },
+  {
+    "name": "[email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */",
+    "date": "January 13th - 15th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/550/thumb/wpi_splash.jpg?1480732070",
+    "hackURL": "http://hack.wpi.edu/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/550/thumb/wpi_logo.png?1480732070",
+    "location": "Worcester,MA"
+  },
+  {
+    "name": "Def Hacks Seattle",
+    "date": "January 14th - 15th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/567/thumb/defhacks_splash.jpg?1482338138",
+    "hackURL": "http://defhacks.io/seattle.html",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/567/thumb/defhacks_logo.jpg?1482338138",
+    "location": "Seattle,WA"
+  },
+  {
+    "name": "HackFRee",
+    "date": "January 14th - 15th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/494/thumb/-tb0423m.jpg20140424.jpg?1478114449",
+    "hackURL": "http://hackfree.info/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/494/thumb/895c27aea871-HACKFREE_300X300.png?1478114448",
+    "location": "Manalapan,NJ"
+  },
+  {
+    "name": "Ünçömmön Ha¢ks",
+    "date": "January 14th - 15th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/475/thumb/66ae97867ceb-mlh_300x300.png?1475968961",
+    "hackURL": "http://uncommonhacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/475/thumb/0fbdfaa86f1a-100x100.jpg?1475968961",
+    "location": "Chicago,IL"
+  },
+  {
+    "name": "Boilermake",
+    "date": "January 20th - 22nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/577/thumb/c135bcebaba8-mlh_cover.png?1483544000",
+    "hackURL": "https://boilermake.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/577/thumb/44345b9e9ddb-logo_s17.png?1483543999",
+    "location": "WestLafayette,IN"
+  },
+  {
+    "name": "Hack UCSC",
+    "date": "January 20th - 22nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/542/thumb/ucsc_back.jpeg?1479854062",
+    "hackURL": "http://www.hackucsc.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/542/thumb/ucsc_logo.jpg?1479854062",
+    "location": "SantaCruz,CA"
+  },
+  {
+    "name": "SB Hacks ",
+    "date": "January 20th - 22nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/492/thumb/f62b8e1185de-cover_mlh.png?1478048314",
+    "hackURL": "http://www.sbhacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/492/thumb/3847ca6fd027-pro_mlh2.png?1478048313",
+    "location": "SantaBarbara,CA"
+  },
+  {
+    "name": "SpartaHack 2017",
+    "date": "January 20th - 22nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/529/thumb/sparta_splash.png?1479237472",
+    "hackURL": "http://www.spartahack.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/529/thumb/sparta_logo.png?1479237472",
+    "location": "EastLansing,MI"
+  },
+  {
+    "name": "SwampHacks",
+    "date": "January 20th - 22nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/555/thumb/SHSocialMedia_splash.png?1481319554",
+    "hackURL": "http://2017.swamphacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/555/thumb/f2de0560f428-SHSocialMedia_profile.png?1481310502",
+    "location": "Gainesville,FL"
+  },
+  {
+    "name": "UofTHacks",
+    "date": "January 20th - 22nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/545/thumb/45480544e69a-300.png?1480363233",
+    "hackURL": "https://uofthacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/545/thumb/144644d26a1f-100.png?1480363233",
+    "location": "Toronto,ON"
+  },
+  {
+    "name": "ConUHacks",
+    "date": "January 21st - 22nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/530/thumb/conu_splash.png?1479238162",
+    "hackURL": "http://conuhacks.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/530/thumb/conu_logo.png?1479238162",
+    "location": "Montreal,QC"
+  },
+  {
+    "name": "HackDavis",
+    "date": "January 21st - 22nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/535/thumb/hackdavis_splash.png?1479316986",
+    "hackURL": "https://hackdavis.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/535/thumb/hackdavis_logo.png?1479316986",
+    "location": "Davis,CA"
+  },
+  {
+    "name": "Fashion/Tech Hackathon",
+    "date": "January 27th - 29th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/562/thumb/fashion_logo_background.png?1481663941",
+    "hackURL": "http://www.fashiontechhackathon.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/562/thumb/fashion_logo.png?1481663941",
+    "location": "Kent,OH"
+  },
+  {
+    "name": "DeltaHacks",
+    "date": "January 28th - 29th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/549/thumb/deltahacks_splash.png?1480731660",
+    "hackURL": "http://deltahacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/549/thumb/delta_hacks_logo.png?1480731660",
+    "location": "Hamilton,ON"
+  },
+  {
+    "name": "Devil Hack",
+    "date": "January 28th - 29th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/559/thumb/devilhack_splash.jpg?1481582397",
+    "hackURL": "http://www.warrentownshiphs.portal.rschooltoday.com/page/3904",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/559/thumb/devil_hack_logo.jpg?1481582397",
+    "location": "Gurnee,IL"
+  },
+  {
+    "name": "HackED 2017",
+    "date": "January 28th - 29th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/563/thumb/1e2233cbf3c5-300x300_mlh.jpg?1481826751",
+    "hackURL": "http://hacked.compeclub.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/563/thumb/d9b5044191a3-100x100_mlh.png?1481826750",
+    "location": "Edmonton,AB"
+  },
+  {
+    "name": "MinneHack",
+    "date": "January 28th - 29th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/412/thumb/background.jpg?1471538085",
+    "hackURL": "http://minnehack.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/412/thumb/dd478f45535c-minnehack_sml_yellow.png?1471538085",
+    "location": "Minneapolis,MN"
+  },
+  {
+    "name": "QHacks",
+    "date": "February 3rd - 5th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/551/thumb/qhacks_splash.png?1480784638",
+    "hackURL": "http://qhacks.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/551/thumb/qhacks_logo.png?1480784638",
+    "location": "Kingston,ON"
+  },
+  {
+    "name": "Hackatown",
+    "date": "February 4th - 5th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/441/thumb/e59cf3b721c3-hackatown_mtl_splash.jpeg?1473259860",
+    "hackURL": "https://hackatown.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/441/thumb/hackatown_logo_final_white.jpg?1480361515",
+    "location": "Montreal,QC"
+  },
+  {
+    "name": "Los Altos Hacks II",
+    "date": "February 4th - 5th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/593/thumb/los_altos_splash.jpg?1484690132",
+    "hackURL": "http://www.losaltoshacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/593/thumb/los_altos_logo.png?1484690132",
+    "location": "LosAltos,CA"
+  },
+  {
+    "name": "ProfHacks",
+    "date": "February 4th - 5th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/552/thumb/ph1920_1080_linear-01.png?1481047072",
+    "hackURL": "http://profhacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/552/thumb/profhacks_logo.png?1481036401",
+    "location": "Glassboro,NJ"
+  },
+  {
+    "name": "HackMerced",
+    "date": "February 10th - 12th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/554/thumb/0decfb6d3b7c-share.png?1481140487",
+    "hackURL": "http://hackmerced.com",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/554/thumb/8a1c032907c0-logo.png?1481140487",
+    "location": "Merced,CA"
+  },
+  {
+    "name": "SteelHacks 2017",
+    "date": "February 10th - 11th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/581/thumb/steel_splash.jpg?1483633287",
+    "hackURL": "http://steelhacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/581/thumb/steel_logo.png?1483633287",
+    "location": "Pittsburgh,PA"
+  },
+  {
+    "name": "BrickHack",
+    "date": "February 11th - 12th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/490/thumb/4fda8f7fb8ec-mlh_splash.jpg?1477499025",
+    "hackURL": "https://brickhack.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/490/thumb/75862f20a8ef-mlh_logo.jpg?1477499025",
+    "location": "Rochester,NY"
+  },
+  {
+    "name": "Disrupt the District",
+    "date": "February 11th - 12th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/553/thumb/district_splash.png?1481043777",
+    "hackURL": "http://www.disruptdc.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/553/thumb/district_logo.png?1481043777",
+    "location": "Washington,DC"
+  },
+  {
+    "name": "HackPoly",
+    "date": "February 11th - 12th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/557/thumb/e0ad3cd7e039-12715932_1102507196435951_241979435034942136_o.jpg?1481581603",
+    "hackURL": "http://www.hackpoly.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/557/thumb/9b2f9a55a4d4-new_logo.png?1481581603",
+    "location": "Pomona,CA"
+  },
+  {
+    "name": "PearlHacks",
+    "date": "February 11th - 12th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/570/thumb/15697083_10208227817994936_275320856_o.png?1482525950",
+    "hackURL": "http://pearlhacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/570/thumb/15683600_10208227818394946_247789461_n.png?1482525950",
+    "location": "ChapelHill,NC"
+  },
+  {
+    "name": "WHACK",
+    "date": "February 11th - 12th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/583/thumb/whack_splash.png?1483976157",
+    "hackURL": "http://wellesleyhacks.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/583/thumb/whack_logo.png?1483976157",
+    "location": "Wellesley,MA"
+  },
+  {
+    "name": "DandyHacks",
+    "date": "February 17th - 19th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/531/thumb/dandyhacks.JPG?1479833331",
+    "hackURL": "http://www.dandyhacks.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/531/thumb/dandy_logo.png?1479239776",
+    "location": "Rochester,NY"
+  },
+  {
+    "name": "Hack Central",
+    "date": "February 17th - 19th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/480/thumb/0b027f84941b-LOGOV21300X300.png?1476117622",
+    "hackURL": "http://hackcentral.ca/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/480/thumb/ec3454f142be-logofinal100x100.png?1476117622",
+    "location": "Winnipeg,MB"
+  },
+  {
+    "name": "[email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */",
+    "date": "February 17th - 19th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/540/thumb/cewit_splash.png?1479488080",
+    "hackURL": "http://www.cewit.org/hack/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/540/thumb/cewit_logo.png?1479488080",
+    "location": "StonyBrook,NY"
+  },
+  {
+    "name": "HackNYU",
+    "date": "February 17th - 19th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/566/thumb/nyu_splash.png?1482252354",
+    "hackURL": "http://hacknyu.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/566/thumb/nyu_logo.png?1482252353",
+    "location": "NewYork,NY"
+  },
+  {
+    "name": "HackYSU",
+    "date": "February 17th - 19th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/578/thumb/ysu_background.png?1483548448",
+    "hackURL": "http://hackysu.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/578/thumb/ysu_logo.png?1483547049",
+    "location": "Youngstown,OH"
+  },
+  {
+    "name": "HackHERS",
+    "date": "February 18th - 19th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/589/thumb/hack_hers_splash.png?1484242784",
+    "hackURL": "http://hackhers.us/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/589/thumb/hack_hers_logo.png?1484242784",
+    "location": "NewBrunswick,NJ"
+  },
+  {
+    "name": "JHacks",
+    "date": "February 18th - 19th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/573/thumb/jhacks_splash.jpg?1483039403",
+    "hackURL": "http://jhacksumd.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/573/thumb/jhacks_logo.png?1483039402",
+    "location": "CollegePark,MD"
+  },
+  {
+    "name": "DerbyHacks",
+    "date": "February 24th - 26th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/482/thumb/6ff4f4ecec83-Splash.png?1476474878",
+    "hackURL": "http://derbyhacks.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/482/thumb/c2f8a0f69e8f-DFleurH_Icon.png?1476474878",
+    "location": "Louisville,KY"
+  },
+  {
+    "name": "HackISU",
+    "date": "February 24th - 26th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/582/thumb/isu_splash.jpg?1483975815",
+    "hackURL": "http://hackisu.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/582/thumb/isu_logo.png?1483975814",
+    "location": "Ames,IA"
+  },
+  {
+    "name": "Desert Hacks",
+    "date": "February 25th - 26th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/477/thumb/e4ffb9de43fe-MLH_300x300px.png?1476111618",
+    "hackURL": "http://www.deserthacks.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/477/thumb/1047399f7bb9-MLH_Logo_100x100.png?1476111618",
+    "location": "Phoenix,AZ"
+  },
+  {
+    "name": "HackBU",
+    "date": "February 25th - 26th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/586/thumb/hackbu_splash.jpg?1484174635",
+    "hackURL": "http://hackbu.org/2017s/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/586/thumb/hackbu_logo.png?1484174634",
+    "location": "Binghamton,NY"
+  },
+  {
+    "name": "T9Hacks",
+    "date": "February 25th - 26th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/538/thumb/t9_splash.png?1479403800",
+    "hackURL": "http://www.t9hacks.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/538/thumb/t9_logo.png?1479403800",
+    "location": "Boulder,CO"
+  },
+  {
+    "name": "WiCHacks",
+    "date": "February 25th - 26th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/484/thumb/bda18de117a2a07ece5c6f5d9a76dcf9.jpg?1476728604",
+    "hackURL": "http://wic-hacks.rit.edu/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/484/thumb/7544a795cf92-WiCHacks_Logo.png?1476728604",
+    "location": "Rochester,NY"
+  },
+  {
+    "name": "Hacktech",
+    "date": "March 3rd - 5th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/541/thumb/mlhsquare.png?1483460201",
+    "hackURL": "http://hacktech.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/541/thumb/100x100hacktech.png?1479760440",
+    "location": "Pasadena,CA"
+  },
+  {
+    "name": "CUHacking",
+    "date": "March 4th - 5th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/533/thumb/cu_hacking_splash.jpg?1479246430",
+    "hackURL": "http://cuhacking.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/533/thumb/cuhackinglogo.png?1479246429",
+    "location": "Ottawa,ON"
+  },
+  {
+    "name": "Hack Potsdam",
+    "date": "March 4th - 5th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/561/thumb/potsdam_splash.jpg?1481649852",
+    "hackURL": "http://hackpotsdam.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/561/thumb/hack_potsdam_logo.png?1481649852",
+    "location": "Potsdam,NY"
+  },
+  {
+    "name": "SiliconHacks",
+    "date": "March 4th - 5th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/565/thumb/silicon_splash.png?1482191165",
+    "hackURL": "http://siliconhacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/565/thumb/silicon_logo.png?1482191164",
+    "location": "Fremont,CA"
+  },
+  {
+    "name": "SWHacks",
+    "date": "March 10th - 12th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/595/thumb/3846874c8157-MLH_image_300.png?1484939646",
+    "hackURL": "http://swhacks.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/595/thumb/a6be25d028a5-SWH_logo_small.png?1484939646",
+    "location": "Tempe,AZ"
+  },
+  {
+    "name": "HackUVic",
+    "date": "March 11th - 12th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/591/thumb/victoria_plsash.jpg?1484248864",
+    "hackURL": "http://hackuvic.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/591/thumb/victoria_logo.png?1484248864",
+    "location": "Victoria,BC"
+  },
+  {
+    "name": "MenloHacks II",
+    "date": "March 17th - 18th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/580/thumb/menlosplash.png?1483552464",
+    "hackURL": "https://menlohacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/580/thumb/menlohacks_lgoo.png?1484921921",
+    "location": "Atherton,CA"
+  },
+  {
+    "name": "nwHacks",
+    "date": "March 18th - 19th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/544/thumb/a7d0f298d8d4-nwhacks_cover_photo_ubc.jpg?1479919460",
+    "hackURL": "http://www.nwhacks.io",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/544/thumb/d1b9c1713ce3-nwhacks_2017_Logo.jpg?1479919460",
+    "location": "Vancouver,BC"
+  },
+  {
+    "name": "SF Hacks",
+    "date": "March 18th - 19th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/572/thumb/sfhacks_splash.png?1482939595",
+    "hackURL": "http://sfhacks.io/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/572/thumb/sfhacks_logo.png?1482939594",
+    "location": "SanFrancisco,CA"
+  },
+  {
+    "name": "CrimsonHacks",
+    "date": "March 25th - 26th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/534/thumb/CrimsonHacks_Splash.png?1479316557",
+    "hackURL": "http://crimsonhacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/534/thumb/CrimsonHacks_Logo.png?1479316557",
+    "location": "Tuscaloosa,AL"
+  },
+  {
+    "name": "hackBCA",
+    "date": "March 25th - 26th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/547/thumb/hackbca_splash.JPG?1480697758",
+    "hackURL": "http://www.hackbca.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/547/thumb/hackbca_logo.png?1480697758",
+    "location": "Hackensack,NJ"
+  },
+  {
+    "name": "HackTJ",
+    "date": "March 25th - 26th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/558/thumb/hacktj_splash.png?1481581639",
+    "hackURL": "https://hacktj.org/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/558/thumb/hacktj_logo.png?1481581639",
+    "location": "Alexandria,VA"
+  },
+  {
+    "name": "HSHacks",
+    "date": "March 25th - 26th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/546/thumb/hshacks_splash.jpg?1480545244",
+    "hackURL": "http://www.hshacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/546/thumb/hshacks_logo.png?1480545244",
+    "location": "Fremont,CA"
+  },
+  {
+    "name": "MLH Prime: West Coast",
+    "date": "March 25th - 26th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/487/thumb/MLH_Prime_West_Coast_Background.jpg?1476909635",
+    "hackURL": "https://prime.mlh.io/events/west-coast-regional/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/487/thumb/MLH_Prime_West_Coast_Logo.jpg?1476909564",
+    "location": "LosAngeles,CA"
+  },
+  {
+    "name": "WiseHacks",
+    "date": "March 25th - 26th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/491/thumb/HEC300x300.fw.png?1477507023",
+    "hackURL": "http://wisehacks.swcenter.edu/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/491/thumb/3b6b35134050-WiseHacks100x100.fw.png?1477505301",
+    "location": "Abingdon,VA"
+  },
+  {
+    "name": "HackGSU",
+    "date": "March 31st - April 2nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/569/thumb/hackgsu_splash.jpg?1482342028",
+    "hackURL": "http://hackgsu.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/569/thumb/hackgsu_logo.png?1482342028",
+    "location": "Atlanta,GA"
+  },
+  {
+    "name": "TribeHacks",
+    "date": "March 31st - April 2nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/564/thumb/4bdb788fd031-Wren_Building_at_Night.png?1482077901",
+    "hackURL": "http://www.tribehacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/564/thumb/3ee978658e93-tribehackslogo.png?1482077901",
+    "location": "Williamsburg,VA"
+  },
+  {
+    "name": "MasseyHacks III",
+    "date": "April 1st - 2nd",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/575/thumb/massey_background.png?1483459951",
+    "hackURL": "https://masseyhacks.ca/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/575/thumb/massey_logo.png?1483459950",
+    "location": "Windsor,ON"
+  },
+  {
+    "name": "HackCU III",
+    "date": "April 8th - 9th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/543/thumb/70991d078d30-hackcusplash.png?1479915080",
+    "hackURL": "https://2017.hackcu.org",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/543/thumb/e23bb370eaf6-hackculogo.jpg?1479915079",
+    "location": "Boulder,CO"
+  },
+  {
+    "name": "RevolutionUC",
+    "date": "April 8th - 9th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/592/thumb/d79e8f86a523-revUCExpo300x300.png?1484526814",
+    "hackURL": "https://revolutionuc.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/592/thumb/f78ea6404d5e-revUCLogo100x100.png?1484526814",
+    "location": "Cincinnati,OH"
+  },
+  {
+    "name": "Hamp Hack",
+    "date": "April 14th - 15th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/579/thumb/hamp_splash.png?1483547336",
+    "hackURL": "http://hamphack.hampshire.edu/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/579/thumb/hamp_logo.png?1483547335",
+    "location": "Amherst,MA"
+  },
+  {
+    "name": "CarlHacks",
+    "date": "April 15th - 16th",
+    "imageURL": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/571/thumb/carlhacks_splash.png?1482860486",
+    "hackURL": "https://carlhacks.com/",
+    "logoURL": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/571/thumb/carlhacks_logo.png?1482860485",
+    "location": "Northfield,MN"
+  }
+]
