@@ -1,5 +1,10 @@
 [
 	{
+ "title": "1st Place",
+ "value": "$1000 to split",
+ "sponsor": "SpartaHack"
+	},
+ {
 		"title": "Best use of AWS",
 		"value": "$100 AWS Credits",
 		"sponsor": "MLH"
@@ -8,5 +13,36 @@
 		"title": "Best iOS App",
 		"value": "$400 to split",
 		"sponsor": "SpartaHack"
-	}
+	},
+ 
+ {
+ "title": "Top Ten",
+ "value": "1 Year of Wolfram Alpha Pro",
+ "sponsor": "Wolphram"
+	},
+ {
+ "title": "Best Android App",
+ "value": "$400 to split",
+ "sponsor": "SpartaHack"
+	},
+ {
+ "title": "Best UX",
+ "value": "$400 to split",
+ "sponsor": "SpartaHack"
+	},
+ {
+ "title": "Most Creative Hack",
+ "value": "$400 to split",
+ "sponsor": "SpartaHack"
+	},
+ {
+ "title": "Most Technically Impressive",
+ "value": "$400 to split",
+ "sponsor": "SpartaHack"
+	},
+ {
+ "title": "SMART Mobility Award",
+ "value": "$400 to split",
+ "sponsor": "Ford"
+	},
 ]

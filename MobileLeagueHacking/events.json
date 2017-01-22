@@ -2,11 +2,44 @@
 	{
 		"name": "!Light",
 		"location": "B106",
-		"time": "2017-01-21 22:30:00"
+		"time": "1/21 22:30"
 	},
 	{
 		"name": "Expo",
 		"location": "B Hallway",
-		"time": "2017-01-21 13:00:00"
+		"time": "1-21 13:00"
+	},
+ {
+ "name": "Hacker Checkin",
+ "location": "B115",
+ "time": "1-21 13:00"
+	},
+ {
+ "name": "Crowe Horwath Bag Toss",
+ "location": "2nd Floor",
+ "time": "1-21 13:00"
+	},
+ {
+ "name": "Quicken Loans: Internet of Things",
+ "location": "B119",
+ "time": "1-21 13:00"
+	},
+ {
+ "name": "Cycle: Simple Docker Hosting",
+ "location": "B117",
+ "time": "1-21 13:00"
+	},
+ {
+ "name": "Delphi: Reverse Engineering",
+ "location": "B119",
+ "time": "1-21 13:00"
+	},
+ {
+ "name": "Therapy Dogs",
+ "location": "B106",
+ "time": "1-21 13:00"
 	}
+ 
+ 
+ 
 ]
